@@ -325,5 +325,162 @@
   "text": "Out of 190 public reviews of automation sellers, 7 scored below 4 out of 5, and 3 of those 7 complained about slow delivery.\n\nAnother 8 praised delivery on time or early, so give buyers a date you know you can beat.",
   "means": "Late delivery drives many poor ratings while punctual work earns praise, so promise realistic deadlines and finish ahead of them.",
   "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125c01",
+  "lane": "motivation",
+  "text": "Answer an angry customer with a phone call rather than a longer written reply.\n\nMost anger in a message comes from how it was read, and your voice fixes that faster than more careful words.",
+  "means": "Tone causes most written disputes, so ring upset customers instead of drafting long replies, and settle things by speaking.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c02",
+  "lane": "motivation",
+  "text": "If a customer needs several meetings before they buy, turn up to every one with the same care.\n\nA slow yes pays exactly the same invoice as a quick one.",
+  "means": "Customers who take time to decide are worth the same money, so keep giving them full attention instead of losing patience.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c03",
+  "lane": "motivation",
+  "text": "Before you finish work today, write down the name of the first customer you will contact tomorrow.\n\nYou will start the morning with a sales message instead of a slow hour deciding what to do.",
+  "means": "Choosing tonight who you will reach out to first removes morning hesitation and puts selling at the top of your day.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c04",
+  "lane": "motivation",
+  "text": "Spend time with owners whose businesses are a size bigger than yours.\n\nThe problems they complain about are the ones you will meet next, and hearing them early lets you prepare.",
+  "means": "Talking with slightly larger businesses shows you upcoming trouble ahead of time, so you can get ready before it reaches you.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c05",
+  "lane": "motivation",
+  "text": "A lost quote tells you something, so ask the customer what made them choose someone else.\n\nPut their answer into your next quote, because the reason you lost is usually something you can change.",
+  "means": "Treat a rejected proposal as feedback, find out why it lost, and adjust your following proposals using that reason.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c06",
+  "lane": "motivation",
+  "text": "If you keep getting customers you do not enjoy working with, change where you find customers before you change anything else.\n\nThe place you advertise decides who answers.",
+  "means": "Unwanted customers usually come from the channel you use, so move your marketing elsewhere before rethinking prices or services.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c07",
+  "lane": "opinion",
+  "text": "Answer your own phone for the first month of any new service you sell.\n\nThe questions customers ask in that month become the training for whoever you hire to take the calls later.",
+  "means": "Handle early enquiries personally so you learn what buyers want to know, then teach a future employee from those real conversations.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c08",
+  "lane": "opinion",
+  "text": "Add a rush fee to any job a customer wants sooner than your normal turnaround.\n\nThe evenings you give up to finish it early have a cost, and customers who truly need speed will pay it.",
+  "means": "Faster delivery takes your personal time, so price it separately and let urgent buyers cover that extra effort.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c09",
+  "lane": "opinion",
+  "text": "Choose one AI assistant for your whole business and learn it properly before you pay for a second.\n\nSeveral half learned tools just give you several different kinds of mistake to check.",
+  "means": "Master a single AI product across the company first, since juggling many unfamiliar ones multiplies the errors you must catch.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c10",
+  "lane": "opinion",
+  "text": "Put your working hours in the first email you send any new customer.\n\nA customer who knows them from the start does not feel ignored when you leave a message unanswered at night.",
+  "means": "Tell buyers early when you are available, so evening silence reads as normal rather than neglect and trust stays intact.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c11",
+  "lane": "opinion",
+  "text": "Hand a new helper a whole job from start to finish, not just the dull steps you want gone.\n\nSomeone who only does the boring half never learns why it matters, so they cannot spot when it goes wrong.",
+  "means": "Give staff complete tasks so they understand the purpose behind each step and can notice problems you would otherwise miss.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c12",
+  "lane": "lesson",
+  "seed": "L0563",
+  "text": "When you ask an AI to redo a draft, give it every correction you have made so far, plus the draft you turned down.\n\nPass on only your newest complaint and it fixes that one while the earlier mistakes come back.",
+  "means": "Each revision request to an assistant should carry all past feedback and the rejected version, or old errors quietly return.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c13",
+  "lane": "lesson",
+  "seed": "L0486",
+  "text": "A blank box in an AI writing template does not stay blank, because the AI may fill it with a story it made up.\n\nWhen a template asks ChatGPT to write about you, fill in every part it reads from.",
+  "means": "Missing details in a prompt invite invented facts, so complete every field a template uses before letting the assistant write.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c14",
+  "lane": "lesson",
+  "seed": "L1694",
+  "text": "Once someone corrects a generated document by hand, running the tool that made it again will wipe every correction without any warning.\n\nKeep the hand edited copy as the master and compare each new version against it.",
+  "means": "Regenerating a file erases manual fixes silently, so treat the corrected copy as the original and check fresh output against it.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c15",
+  "lane": "lesson",
+  "seed": "N25112512",
+  "text": "A shortened copy of a long note can hide the part that mattered, because nothing shows where it was cut.\n\nWhenever you keep a short version of anything, mark clearly that it was cut.",
+  "means": "Trimmed records mislead people who read them later, so label every abbreviated copy so readers know something is missing.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c16",
+  "lane": "builder",
+  "seed": "L1512",
+  "text": "When an n8n step is only an HTTP call to an image or AI model API, test your fix by sending that exact request straight to the API.\n\nYou learn whether the fix works without paying for another full run of the workflow.",
+  "means": "Replaying the same payload directly checks a change cheaply, saving credits and time compared with executing the whole workflow again.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c17",
+  "lane": "builder",
+  "seed": "L1400",
+  "text": "Telling Claude Opus to avoid a generic look only swaps one default design for another.\n\nName the exact defaults you want gone in your brief, so it knows what to change.",
+  "means": "Vague instructions against bland design produce a different bland design, so list the specific habits you want removed.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c18",
+  "lane": "builder",
+  "seed": "L0874",
+  "text": "An expired GitHub token can be worse than no token, because calls that work anonymously start failing with error 401.\n\nWhen every GitHub API call suddenly returns 401, check for an old token left in your setup before anything else.",
+  "means": "A stale credential causes rejected requests that would succeed without it, so look for leftover tokens first when everything starts failing.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c19",
+  "lane": "builder",
+  "seed": "L0766",
+  "text": "When an AI coding agent tells you its git mistake cannot be undone, check before you believe it.\n\nA commit put on the main branch by mistake was moved back with a soft git reset, and nothing was lost.",
+  "means": "Coding assistants can wrongly declare an error permanent, so verify recovery options yourself, since a simple reset often restores everything.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c20",
+  "lane": "news",
+  "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "text": "Google Search can now answer from your Google Drive files and Google Wallet in AI Mode, once you choose to connect them.\n\nYou switch it on in your Search Personalization settings and can change what is connected at any time.",
+  "means": "Owners who opt in can ask Google about their own documents and spending, and stay able to disconnect those apps whenever they like.",
+  "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261125c21",
+  "lane": "buyers",
+  "seed": "R25112503",
+  "text": "Only 5 of 190 public reviews of automation sellers praised the seller for testing the automation before handing it over.\n\nSo ask your builder to show you a working test run before you pay the final invoice.",
+  "means": "Testing before delivery is rarely mentioned by buyers, so request a live demonstration of the finished automation before making the last payment.",
+  "at": "2026-11-25T16:45:09Z"
  }
 ]
