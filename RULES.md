@@ -16,6 +16,9 @@ Reader: a small business owner, any kind of business. Builder posts may speak to
 12. Every post answers "what does the reader do or see differently tomorrow?" If it does not, drop it.
 13. Vary the openings. No two posts in a batch start with the same three words. Do not start more than two with "If".
 
+14. Read in/history.txt, the posts already live on this account, before writing. If one of them already makes your point, in any words, drop the draft.
+15. A seed about how a vendor's product behaves may be out of date. Tell the owner's lesson in it, or skip it. State a vendor's behaviour as fact only from a page in in/news.json.
+
 Posts the owner of this account called right:
 
 Tell your client the bad news in the same hour you find it.

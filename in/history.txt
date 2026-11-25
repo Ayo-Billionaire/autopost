@@ -1,0 +1,224 @@
+You let a freelancer into Make.com to build one automation, and your Gmail came with it. But on the 20th of November Make.com announced a lock, and it
+86 of the businesses on my lead list had an email address that does not belong to one person. They were shared inboxes, with addresses that start with
+I told an AI tool to give me an email address only if it was printed on the page, and it gave me a phone number. There was no email address on that pa
+Which question do customers ask you so often that you know the answer by heart? It may be about your prices, your opening hours, how long delivery tak
+On the 22nd of November I opened my own lead list, and three of its columns were gone. Somebody had deleted them by hand, and the list looked perfectl
+Some Make.com automations that use Google's Gemini AI models now fail, because three of the models have been retired. They are Gemini 2.5 Pro, Gemini 
+Google says its Gemini app can now phone a business for one of its customers, wait on hold and book the appointment. Google says Gemini told the deale
+OpenAI now lets a business claim its own profile in ChatGPT, which OpenAI says 1.2 billion people use each week. Once you are verified in its Business
+While testing my client's AI phone receptionist on Retell, I found its settings sent a follow up visit and a first visit into the same kind of appoint
+I lost a whole work session building a free scraper, and a paid one that cost $3.60 beat it in 44 seconds. My own scraper used Playwright, a tool that
+My AI research agent said it found no reliable source. It was wrong, and that answer cost me 177,000 tokens.
+A green tick in n8n does not mean the step worked. I learned that from one reply that said 200, the code that means OK, and success false in the same 
+My cold email campaign sent zero emails. That was the best thing it could have done.
+If I were buying an automation for my business, the first question I would ask is who can fix it when the person who built it is gone. An automation t
+Think of the last enquiry your business received, whether it was a call, a message or a form. How long did it wait before a real person answered it?
+A website chat that only collects an email address leaves the booking for later, and every hour of waiting gives the visitor time to try someone else.
+When I changed the booking limits for my new calendar, my client's existing calendar changed too. In Acuity, the booking software, the Global Scheduli
+My client's image generation bill was a surprise, and the vendor's prices had not changed. The run history on Make.com showed the cause at once: a bac
+What did your last hire spend their first week doing? Tell me what filled it, and what you wish had already been done for them.
+My client's sales pipeline had eight stages, but the CRM could only hold three of them. Phorest, the salon software, gives every lead one status from 
+I paid $10 for a lead scrape of 5,901 rows, but my list ended up with none of them, and nothing told me it had failed. One column, the business name, 
+857 of 877 cold emails were delivered, but the list still missed my client's target market. There were no spam complaints and the delivery report look
+My client's AI phone assistant sent a booking confirmation text, and nobody received it. The phone company's records showed the text had gone from the
+Before I build anything on an email connection in Make.com, the automation platform, I list the real folders in the mailbox, which needs a real login,
+One of my clients kept the wording for his AI phone assistant in a spreadsheet, but every change had to wait for me to copy it across by hand.
+My client's booking email gave a customer who had just paid and booked their session time as a raw computer timestamp no person would write. It also p
+My own lead pipeline saved 3,692 leads in 11 days. When I finally checked their email addresses, 1,074 were dead.
+A high priority switch in Retell, the platform for AI phone agents, was meant to speed up my client's AI phone receptionist. It did not stop the timeo
+An automation that cannot tell you when it breaks is a liability, not a helper.
+If you want to know which task an automation should take first, book the free Time Back Plan. It is a 30 minute call. You tell me how the business run
+I paid for a tool, and it charged me in full for a job it never finished. The tool is Firecrawl, which reads web pages and PDF files and pulls out the
+My client's AI phone agent took about 5.7 seconds to start talking, and each call logged 21 timeouts. Callers hung up first. The phone line was fine. 
+The day I found my client's social media posting switched off, I had to email her. I found it while checking my old builds.
+I was going to tell my client the rewrite was fixed, because the hourly run said "success". That run belongs to the system that emails my client's cus
+$4.23 of a $5 monthly budget was gone, and several runs in a row of my client's lead scraper had returned 100 leads and added none that were new. Each
+Emails marked as needing action kept reaching my client from Retell, the voice AI platform, so I searched all the code of their AI voice agent for the
+The lead finder in my client's lead automation was switched on, had run 40 times in 7 days, and every run was marked a success. None found a lead.
+A prompt rule I thought was harmless hid a bug in my client's weekly newsletter. The rule: if a section has no news, don't show its heading.
+I once gave an AI two lists of 175 items each and asked it to match item 1 with item 1, item 2 with item 2, and so on. The result looked perfect.
+My client's Make.com automation gave an OpenAI step 11 properties spread over 9 states and Canada, and the AI said they were all near Rock Hill, South
+My client called a post on her company LinkedIn page "Not even English". An automation I built had written and published it. The next day she added: "
+A person who replies to a cold email should stop getting follow ups. On my client's cold email platform, that would not have happened for the Gmail ma
+A rental home request in South Carolina was matched to properties in Georgia, Missouri, Massachusetts and Ontario. My client's team saw it in Slack as
+My client helps film and video productions document their AI use, because an AI law took effect on the 2nd of August. Their automation posted calm sho
+My 31 second HyperFrames video had zero captions. The browser preview showed all of them, and the render still said success.
+Retell's strict mode was on, and my voice AI still saved a word as a caller's phone number. The caller had asked it to use the number they were callin
+Claude Sonnet 5 used up all its output tokens on hidden thinking and wrote nothing. Make.com still counted the run as a success.
+Kling takes the shape of its video from the starting image and ignores the shape setting. My square images gave me a square 1440x1440 video, though I 
+My client's AI receptionist answers the phone and books appointments. One caller asked about Thursday, and it gave a reason it had made up.
+If I walked through your week, the first thing I would count is how many times a new customer's details get typed. It might be typed once into the boo
+One of my Claude Code instruction files hit 367 lines. The guard meant to stop it at 200 had never fired once.
+An automation can work perfectly for a week and then stop on its own. The cause is Google's testing mode, which ends its access to your account after 
+I looked up one phone number in my client's booking app, and it returned two different people. It was a number that had really called my client's clin
+611 leads were queued in a live email campaign. When I finally checked them, 215 were dead, over a third. 146 mailboxes do not exist. 43 domains do no
+On a cold email platform I help build, a pull of 5,901 leads cost $10, and not one of them was saved. The tool showed no error message, and the list o
+ElevenLabs gave me clean audio for my Lithuanian text from three voice models, and two of them sounded Greek. None gave an error.
+Not sure which jobs in your business a tool could take over? So I start by listening to how your week runs on a free 30 minute call, and I call what y
+If I sat beside the person who does your office work for one hour, I would count how many times they copy a customer's details from one screen into an
+I lost 17 of my client's leads. The alert I built to warn me never fired.
+After every update, the deploy log on my client's Render account (a hosting platform) printed a new, working database password. I had already masked t
+If you want to know which jobs in your business a tool could take over, I look at three places first. I walk through them on a free 30 minute call tha
+An AI phone assistant that does not know an answer should say so, and not make one up. In my demo for a clinic, one rule beats every other rule. If so
+A customer writes to your business, you reply, and then they go quiet, and chasing them is a job somebody has to remember to do. I built a system on M
+An AI phone assistant can now start talking in about half a second, but your old automation may take 15 minutes to notice a new lead. On the slowest s
+More than half of the 39 law firms whose lowest rated reviews I read had a customer complaining that they could not reach the firm. I would guess that
+My clients have rated my work 4.9 out of 5 across 141 ratings. One client wrote, "He fixed my problem very quickly with great communication along the 
+What is one thing your business still does on paper? It might be a booking diary, a job sheet, or a list that someone copies into the computer later. 
+In a test call, the AI phone assistant I was building for my client described a booking that did not exist. It had stitched the name I gave onto a mad
+My cold email was ready to send 40 emails a day. But my lead scraper's budget only paid for about 11 leads a month.
+About two out of every three email addresses on a list I collected were no good, and an email checker threw out 667 of 1,042. Email providers start bl
+Before I build anything for a business, I watch how its work gets done. Clients often do not know what they need yet. I look at one task at a time, be
+I make my automations fail on purpose before I call them finished. For my daily lead collector I forced a failed run, and an alert email arrived with 
+If I were buying an AI phone assistant, I would ask whether it works out dates by itself, because one that does can book the wrong day. My client's as
+My client was supposed to get a summary after every phone call, and it would never have arrived even though I had built and tested it. The phone assis
+If I ran a business with automations in it, the first thing I would ask is how I would find out when one of them breaks. An automation that cannot tel
+Which job in your week do you wish you never had to do again? It could be copying details between two apps, or typing the same reply again. If you can
+Somebody in your business copies the same details from one app into another every week, and a tool can already do that job. Two more jobs a tool can a
+My client wanted no third party automation tools, but he wanted an AI agent answering his phone and booking appointments. Usually that means a monthly
+If I were looking for what to automate in your business, I would not ask you first. Some of my clients cannot answer that, and it is not their fault.
+If I were looking for what to automate in your business, I would not ask you first. Some of my clients cannot answer that, and it is not their fault.
+My n8n automation was meant to send an audio file to another service. Instead of the sound, it sent one word: "filesystem-v2".
+Someone fills in your agency's application form in March, and fills it in again in June. After the second form, your records show only the June applic
+I spent an hour on OpenAI's dashboard looking for a problem that was sitting on my own laptop. My app kept saying my API key was wrong.
+My client prints designs onto towels and clothes, but every order first waited on one job done by hand. Customers wrote their designs down, but printi
+When I tested my sales app, it deleted a lead that was saved on the phone. It had sent the lead to my server, got a page back, and taken that page as 
+My client's booking system kept refusing my automation, even with the right API key saved in it. The key was right.
+My client's booking system kept refusing my automation, even with the right API key saved in it. The key was right.
+In a test, my client's AI voice agent on Retell read out appointment times of 1 AM, 1:50 AM and 2:40 AM, but the real slots started at 9 AM. The agent
+My app's search kept missing words that were sitting right there in the documents. It found "recruiting" 80 times out of 84, and gave no sign the othe
+I sent an email through Brevo, the email platform, from my own Gmail address, but it arrived from a Brevo address instead. I found out by sending the 
+I took a shortcut to create one test user in my app, and that user could not log in. The error blamed my database setup, but my database setup was fin
+I opened Claude Code from a subfolder, and it loaded a memory that had been frozen for 76 days. None of the notes from my main folder were in it.
+My client's newsletter automation keeps asking a research tool whether its job is done. My check for that answer would have said yes to a job that had
+Claude Code, my AI coding assistant, skipped a rule twice in one session. The rule had been in its instructions and its memory from the first message.
+I checked an automation file for anything private before I shared it. It passed my check, and it was still carrying a stranger's email address and pho
+A code review of my research tool found three ways it could fail without telling me, and the first was a line that started a background job and forgot
+I paid 50% extra for the sound on an AI video, and the sound was silence. I ran the same video job through two models.
+A warning in my web app's console named an attribute I have never written, and the attribute came from a VPN extension in my browser. The warning was 
+My app was about to cost every sales rep using it five hours of their morning. It was meant to tell them at 6am who to message that day, but it was se
+69 of 599 email addresses reached a live campaign on my cold email platform, and their domains could not receive email, because my own check had let t
+I built an AI tool that finds the questions people are really asking about a topic, on Reddit, YouTube and Quora. In its first test, it read 2 Reddit 
+A Make.com error that mentioned replaceAll cost me four attempts to fix. The real mistake was where I had put one field.
+My client's Shopify product photos opened fine in any browser. But the AI models in her video automation would not take them.
+A background task told me an install had finished, and nothing had been installed. The install had failed, and the task still reported success.
+When a payment could not be confirmed, my client's buyers got a blank page. The page meant to explain what happened never loaded.
+If I were updating a live n8n workflow by API, two things would catch me out. It can reject the whole update, and it can wipe what the workflow rememb
+A Supabase database connection can work on your laptop and fail once your app goes live. Supabase's docs explain why.
+My cold email platform sent no warmup emails for three days, and nothing showed an error. The planner was scheduling and the worker was running.
+In one Make.com account, 87 of every 100 scenarios had never run once. I counted 1,336 scenarios across 135 organizations, and only 169 had ever execu
+I tested a tool that cuts mistakes out of talking videos, and it cut nothing. I had hidden two mistakes in a 56 second clip for it to find.
+Testing Acuity, the booking tool, can create a real calendar that your code cannot delete. All it takes is one empty request.
+On Vercel's free plan, a daily email set for 6pm can go out any time between 5:01 and 6:59. I found this while picking where to host my app's daily su
+To stop Brevo's follow up emails once a lead replies, I would not take them off the list. A lead partway through the sequence still gets the next emai
+My Make.com scenario lost one of its settings every time it was saved. It happened three times before I saw why.
+Ask an AI bot a question in Slack, and the answer can appear three times in the channel. The bot is not broken.
+My sales app made people stare at a blank screen for 4.2 seconds. The AI behind it was working the whole time, and nobody could see it.
+My email checker told me stripe.com does not exist. I only caught it because the very next check said it does.
+I made one Make.com API key for one small job. When I listed what it could open, it returned 135 client organisations.
+One payment from one customer made my automation hand out two session packages. That was in testing, but on my client's live shop the second package w
+I asked an AI model which questions a prospect had never answered. It listed 8, and 4 of them had been answered. I was building an app for sales reps 
+json2video told me my video was finished, and not one frame of it had any text. The video was 15 seconds long, 1080 by 1920 pixels, and perfectly vali
+I spent most of a work session building a free lead scraper. It found the person in charge at 17% of the firms, and not one email address.
+Three different services answered my Python script with the same 403 error. Nothing was wrong with any of them.
+My nightly backup worked every time I ran it by hand and failed every night on its own. The scheduler on my Mac reported exit code 23 and one error: "
+Perplexity's new Decisions API returns probabilities instead of a written answer. You send text, JSON or an image and a question, and get back numbers
+Turning off one MCP server saved me an estimated 15 to 20 thousand tokens at the start of every Claude Code session. An MCP server is how Claude Code 
+If I were building a Next.js form that sends people to a new page after it saves, I would keep the redirect outside any try and catch block. Next.js's
+When I moved my own domain to Cloudflare, its setup scan switched my email authentication records to "Proxied". A proxied email record stops working.
+Firecrawl, a web scraping service, charged me 432 credits for one page and gave me back nothing. I had asked it to pull structured data out of the pag
+I asked Claude Code to review the n8n automation I had just built. It came back with 10 findings, and none of them were about the automation.
+The domain I send cold email from told Gmail that every website on the same server was allowed to send email as me. I found it while setting up three 
+I built a follow up app for sales reps on Supabase, the database and login service. I was the only person who could sign up for it.
+Outlook.com does not always put weak email in the spam folder. For high volume senders, Microsoft can refuse the message outright and send it straight
+My KIE.ai account, an AI image and video service, held 5,269 credits. It still answered every request with 401 Unauthorized, the error for a key it do
+I wrote a rule for Claude Code: it must read my sales notes before it writes any client message. The guard that enforced it switched itself off the fi
+My cold email platform's API told me I had no leads. Its dashboard showed 23,192.
+I paid 177,000 tokens for a research agent to tell me it found no reliable source. Tokens are the units Claude counts its work in, so that was a lot f
+I created four new API keys to fix a problem, and none of them was the problem. Every search I sent through Firecrawl, a web scraping API, came back w
+The "stop on reply" checkbox in my own cold email platform did nothing. Nothing in the code read it.
+My n8n workflow crashed on a step that had done nothing wrong. The real failure was one step earlier, and n8n had marked that step as a success.
+My cold email campaign had 611 leads and 17 emails ready for each of them. A day after launch it had sent zero.
+If I were paying someone to connect Claude, Anthropic's AI, to my business inside Make.com, the automation tool, I would ask to see one thing before i
+I logged into my own app as an ordinary member and made myself the admin with one request. The app is a follow up tool I built on Supabase, the databa
+If I were sending a JSON message from Make.com's HTTP module, I would not type the body as raw JSON. The module stores a raw JSON body as plain text.
+An AI tool read an error page and wrote me a complete API request that does not exist. I was building with Brevo, the email and CRM platform, and aske
+If I were saving a record to a Make.com data store, I would not put my fields beside the key. A Make.com data store keeps one thing at the top of a re
+I gave an AI research tool a list of 11 websites it was allowed to use. 8 of its 12 sources came from somewhere else. The tool is Tavily, a web search
+OpenAI's Codex stops reading your AGENTS.md instructions once they reach 32 KiB. Codex is OpenAI's coding agent, and AGENTS.md holds its standing inst
+In n8n, a Hunter node quietly threw away every field I had built up before it. Hunter is the email finder, and n8n's built in Hunter nodes, Domain Sea
+Claude Code's own /doctor report told me that 182 of my 225 skills had never been used. Claude Code lists every installed skill at the start of every 
+I updated my client's live n8n workflow through the API, and the update wiped the place where its inbox reader remembered how far it had read. n8n kee
+A Zapier Zap can go quiet without showing an error, because Zapier is holding its work. Zapier's help pages say that when a Zap with a polling trigger
+I asked YouTube's API to publish a video as public. It replied "success", and the video came out private.
+Anthropic has a rule for when Claude Code keeps getting something wrong. Its guide says: "If you've corrected Claude more than twice on the same issue
+A scrape cost $10, found 5,901 rows, and saved none of them. It was a lead import in my client's cold email platform.
+Taking a lead off your list does not always stop the emails Brevo already planned for them. Brevo, the email platform, runs follow up sequences with w
+An AI video provider ran out of credits, and my n8n workflow kept waiting for a video that was never going to exist. The wait step ran 11 times and wo
+If your n8n workflow asks you to reconnect Google every 7 days, the cause is a Google Cloud setting, not n8n. Google's developer docs say that when yo
+I searched one phone number in my client's booking system and it returned two different people. My client's AI voice receptionist runs on Retell, the 
+The AI company Manus launched Manus for Business on Oct 13. The Team Plan starts at $20 per paid seat per month, or $200 per seat per year, for 4,000 
+Google made Gemini 4 Argon generally available in the Gemini API on Oct 13. Google calls it its most capable model for complex coding, agentic work, m
+xAI released Grok Voice 3.0 on Oct 14, a speech to speech model for building voice agents. The price is unchanged at $0.08 per minute in its Voice Age
+Switching to a cheaper AI model halfway through a long Claude Code conversation can cost more. Thariq Shihipar, who works on the Claude Code team, say
+Google gives a number for how many people may report your marketing email as spam: keep reports below 0.10% and never reach 0.30%. That is one in ever
+I gave Make.com, the automation platform, an email connection with a made up address and no password. When I ran Make.com's connection check from its 
+If I were setting up OpenAI's Codex, the coding agent, for the first time, I would not stop at one safety setting. OpenAI's Codex docs describe two. T
+A customer paid my client for a package, and nothing was emailed to them at the moment of payment. If they closed the tab then, they had nothing to sh
+Claude Code, the AI coding tool, reads a memory index, a short list of notes, when a session starts. A session told me mine was exactly 200 lines. It 
+I wrote a rule for my own lead pipeline: check every email address before a lead is saved. I tested it on my laptop and never sent it to GitHub, where
+After one test call to his AI phone receptionist on Retell, my client told me the lag was often long. He was right: the AI took about 6 seconds to sta
+I checked an API key before a big batch, it passed, and then 30 of my 40 requests failed. My check only asked the OpenAI API for its list of models, a
+A lead went on holiday and switched on an "out of office". My client's cold email platform decided they had replied, stopped their follow ups and coun
+Three full renders of my client's promo videos came out in the wrong font, and I only noticed when I wrote a test to check. The videos rendered fine a
+I asked KIE.ai, using Google's Gemini text to speech, for a 50 second narration for my client's promo videos, and it said done. The audio file it gave
+An email verifier told me an address was good. Google told me it didn't exist. Every lead had passed the check, and one email came back with "Address 
+I found my client's social media posting switched off, with 103 failed runs behind it. The newest was from that same day. The error said one request f
+I rewrote one step of my client's system that emails their customers when a prepaid balance runs low. The next hourly run came back with a green "succ
+My client's lead scraper kept paying $0.10 per run to fetch 100 leads it already had. It is a scheduled job on Apify, a lead scraping service, and $4.
+My client kept getting emails saying action was required, in capital letters. They came from Retell, the voice AI platform, about the AI voice agent I
+Three tools in my client's lead automation had produced nothing, and together they cost $86 a month. The lead finder was switched on and ran 40 times 
+My client's weekly newsletter should have four sections. For 13 sends in a row it had three, and the system reported success every time. There was no 
+New email addresses earn trust by sending each other warmup emails before real campaigns go out. My client's new addresses were sending about 2 a day 
+An AI told my client's team that two streets, one in Missouri and one in Georgia, were "known local features" of Rock Hill, South Carolina. The AI is 
+A lead tool's store page on Apify, a marketplace of scraping tools, promised up to 50K business leads per run. I asked for 500 and got exactly 100. It
+An automation I built published a wrong post on my client's company LinkedIn page. She saw it and wrote: "I have to delete it". It is an n8n workflow 
+My client's cold email platform logged success on every Gmail inbox check. For every customer except the person who runs the platform, the check had r
+Every rental home request that came in without a ZIP code got the same 11 properties. 631 of 1,184 requests got that identical list, and 182 had confi
+I built a tool that reads a company's website and writes the first line of a cold email. I made it quote the page word for word, which stopped the mad
+On a test call, the caller asked an AI phone receptionist for August 14th. It offered three times on August 13th and never mentioned the change. The A
+I shipped five small fixes to my client's cold email platform in 25 minutes. Each one was tested. Together they took the live database down for about 
+One picture for my client's blog came back with the number "2.8" painted on a wooden crate. I had put that number in the prompt myself. My client's bl
+I paid $3.597 to get contacts at ten companies. On another run, the same ten cost me $0.257. The scraper's store page said from $1.05 per 1,000 pages,
+A caller asked an AI phone receptionist about Thursday, and it said Thursday afternoon was full. It had never looked at Thursday. On this test call fo
+My client's outreach automation wrote 18 personal opening lines for 18 leads, and only 1 contact reached Brevo, the email platform. Nothing showed an 
+I gave an AI research tool a list of 11 websites it was allowed to use, and it used others anyway. This was my client's newsletter workflow in n8n. Ta
+I tested an AI phone receptionist I built for my client, and it read the caller somebody else's appointment. It was a web call, so there was no phone 
+A client's video maker ran for hours with no video and no error. It makes promotional videos with kie.ai, an AI video service, in n8n, a tool that con
+A cold email platform's panel showed the DKIM check as fine. DKIM is the signature that proves mail came from your domain. The check tried 8 common na
+The leads from my own daily lead scraper stopped landing in the Google Sheet. It had happened before, and it kept coming back. The job writes its rows
+378 leads were held back from the personalised first line of each cold email, because every one was marked risky. The email checker I use was wrong bo
+Every step of my news summary automation in Make.com showed success, and the AI at the end still said there was no news. The step before it had handed
+My email tool does not check addresses when you upload them. I had built my code on the belief that it did. Then I checked the 611 leads sitting in a 
+One of my video reels came back 30 decibels quieter than the rest, and my workflow let it through. The picture was fine. The sound was close to silent
+An AI voice read Lithuanian text aloud in Greek sounding speech, with no error. Two cheaper voice models accept Lithuanian but do not speak it. A tour
+A news summary automation on Make.com reported success, but its AI said there was no news. It had been handed nothing to summarise. Make.com wraps eve
+Anthropic launched OSS Scanner on Oct 8, an opt in vulnerability scanner for open source projects. Projects that join get periodic security scans by i
+I switched one video to a cheaper AI model to save 15%. The picture was right, but the sound was about 30 decibels quieter than my other reels, nearly
+A yes or no field in Brevo can hold three things: yes, no, or nothing at all. My follow up rule forgot the third one. It waited for the replied field 
+An automation I run for a client lost 17 of its 20 sales leads in one run. The spreadsheet only accepts so many new entries a minute, the run stopped,
+On Render, a hosting platform, my own fix for a password leak still printed a working database login into a client's deploy log, the record kept each 
+A reviewer looked at a page I published with Claude and decided none of my fixes had ever been made. After about 8 rounds, they stopped trusting the w
+My test said a safety check in my Claude Code setup did nothing. The check was fine. The test was broken. The way I typed the fake input added a line 
+Your n8n Code step on n8n Cloud may be returning an empty result and never telling you why. Its built in web address helper is missing. Without error 
+Google's Nano Banana 2.1 makes 1K and 2K images for about half the price of Nano Banana 2. 4K is only about 25% cheaper, and prompts cost three times 
+A follow up rule in @brevo skipped every lead who never replied, the exact people it was for. It sent only if the replied field was false. Nothing eve
+I set a guard in Claude Code (@claudeai ) to stop its instruction file growing past 200 lines. It never blocked anything, and one file reached 367. It
+My 31 second HyperFrames video rendered with zero captions. The preview had all of them. Each caption started hidden and waited for playback to reach 
+A Make automation sent an empty message and marked the run a success. Claude Sonnet 5 used its whole output allowance thinking and had none left for t
+ChatGPT can now answer with things you can touch, using GPT-6. In @openai's demo you plan a Sunday roast, change the guest count, and the shopping qua
+@claudeai new small Claude model, Haiku 5.5, costs about 75% less to run than Haiku 4.5, on average. It's built for summaries, sorting requests into c
+@klingai_official, the AI video tool, ignored my widescreen setting and gave me a square 1440x1440 video, because my starting images were square. The 
+My voice AI agent saved a placeholder word where a caller's phone number should be. The caller said to use the number they called from, and instead of
+My test said a safety check in my Claude Code setup did nothing. Two problems. Typing the fake input by hand slipped in a stray line break. And when t
+@brevo, the email platform, told me a client's campaign had sent zero emails. It had sent 877. I'd asked for 94 days of numbers. That report only answ
