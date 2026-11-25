@@ -50,6 +50,7 @@ for u in users[:16]:
         t = re.sub(r"@\w+|https?://\S+|[\w.+-]+@[\w-]+\.\w+", "", t).replace(u, "the seller")
         t = re.sub(r"(?<=[a-z,;] )(?!I\b|AI\b|API\b|CRM\b|Make\b|Zapier\b|Airtable\b|Google\b|Gmail\b|Slack\b|Notion\b|Shopify\b|HubSpot\b|OpenAI\b)[A-Z][a-z]+", "the seller", t)
         t = re.sub(r"^[A-Z][a-z]+ (?=is|was|did|has|delivered|made|helped|went|took|understood|knows|provided|really|built)", "The seller ", t)
+        t = re.sub(r"\b(?!The\b|This\b|He\b|She\b|It\b|They\b|We\b|Work\b|Service\b|Everything\b|Communication\b|There\b|That\b|Delivery\b|Quality\b|Seller\b|Project\b|Who\b|Which\b|AI\b)[A-Z][a-z]{2,}(?= (?:is|was|did|has|went|took|solved|showed|exceeded|delivered|made|helped|understood|knows|provided|really|built|clearly|kept|set|fixed|and)\b)", "the seller", t)
         i = hashlib.sha1(t.encode()).hexdigest()[:12]
         if i not in old: old[i] = {"id": i, "at": datetime.date.today().isoformat(), "seller": hashlib.sha1(u.encode()).hexdigest()[:6], "score": score, "text": t[:220]}; new += 1
 json.dump(sorted(old.values(), key=lambda x: x["at"])[-400:], open("in/reviews.json", "w"), indent=0, ensure_ascii=False); print(len(old), "reviews,", new, "new")

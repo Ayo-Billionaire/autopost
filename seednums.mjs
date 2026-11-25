@@ -1,3 +1,6 @@
 // node seednums.mjs <private seeds.json>   writes in/seednums.json: each seed id with only the numbers it contains, so the scheduler can check a post without seeing the seed
 import fs from "fs"; import { numbers } from "./gate.mjs";
-const s = JSON.parse(fs.readFileSync(process.argv[2], "utf8")); fs.writeFileSync("in/seednums.json", JSON.stringify(Object.fromEntries(Object.entries(s).map(([k, v]) => [k, numbers(v)])))); console.log(Object.keys(s).length, "seeds");
+// Never publishable: our own mishaps and costs, records that point at one business, health, marketplaces, outreach.
+const NO = [/\b(?:our|my) own (?:test|mistake|run)s?\b/i, /\bzero credit|account (?:was )?paused|month's .*bill|our bill\b/i, /\b\d{2,} (?:of|out of) (?:the )?(?:last )?\d{2,} (?:appointments|customers|patients|clients|callers|bookings|leads)\b/i, /\bpatients?\b|\bclinic\b|\bmedical\b/i, /\b(?:upwork|fiverr|proposal|cold email|outreach)\b/i, /\bmy client paid\b|\$\d/i, /\bcomplain\w* (?:from|by) my client\b/i, /\b(?:passwords?|api keys? (?:was|were|is) (?:public|leaked|exposed))\b/i];
+const s = JSON.parse(fs.readFileSync(process.argv[2], "utf8"));
+for (const [k, v] of Object.entries(s)) if (k[0] === "N" && NO.some((r) => r.test(v))) { delete s[k]; console.log("not publishable, removed from the list:", k); } fs.writeFileSync("in/seednums.json", JSON.stringify(Object.fromEntries(Object.entries(s).map(([k, v]) => [k, numbers(v)])))); console.log(Object.keys(s).length, "seeds");
