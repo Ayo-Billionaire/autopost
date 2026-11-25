@@ -53,4 +53,8 @@ for u in users[:16]:
         t = re.sub(r"\b(?!The\b|This\b|He\b|She\b|It\b|They\b|We\b|Work\b|Service\b|Everything\b|Communication\b|There\b|That\b|Delivery\b|Quality\b|Seller\b|Project\b|Who\b|Which\b|AI\b)[A-Z][a-z]{2,}(?= (?:is|was|did|has|went|took|solved|showed|exceeded|delivered|made|helped|understood|knows|provided|really|built|clearly|kept|set|fixed|and)\b)", "the seller", t)
         i = hashlib.sha1(t.encode()).hexdigest()[:12]
         if i not in old: old[i] = {"id": i, "at": datetime.date.today().isoformat(), "seller": hashlib.sha1(u.encode()).hexdigest()[:6], "score": score, "text": t[:220]}; new += 1
+# names: a capitalised word that never appears in lower case anywhere in the reviews, and is not a known tool, is treated as a person
+KEEP = set("AI API CRM Make Zapier Airtable Google Gmail Slack Notion Shopify HubSpot OpenAI Claude ChatGPT Excel Sheets Sheet Stripe WhatsApp Facebook Instagram Retell Twilio HighLevel GoHighLevel Wix WordPress Monday ClickUp Trello Outlook Microsoft English".split())
+low = set(w for x in old.values() for w in re.findall(r"\b[a-z]{2,}\b", x["text"]))
+for x in old.values(): x["text"] = re.sub(r"\b[A-Z][a-z]{2,}\b", lambda m: m[0] if m[0] in KEEP or m[0].lower() in low else "the seller", x["text"])
 json.dump(sorted(old.values(), key=lambda x: x["at"])[-400:], open("in/reviews.json", "w"), indent=0, ensure_ascii=False); print(len(old), "reviews,", new, "new")
