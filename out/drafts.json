@@ -155,5 +155,175 @@
   "text": "Out of 35 reviews left by people who bought an automation, 4 praised being walked through it or having their questions answered.\n\nSo book the walkthrough call before you send the final invoice, because buyers remember it.",
   "means": "Some buyers value an explanation enough to mention it in reviews, so builders should plan a guided handover for every delivery.",
   "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125b01",
+  "lane": "motivation",
+  "text": "The sales call you keep moving to tomorrow is usually the one that would bring in money this week.\n\nPick up the phone before you open your inbox, because your inbox will fill the whole morning if you let it.",
+  "means": "Put the money call ahead of email, since messages expand to take the time you meant for selling.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b02",
+  "lane": "motivation",
+  "text": "Doing a job the wrong way every week does not make you better at it, it only makes the mistake harder to break.\n\nWhen customers keep asking the same question after your quote, change the quote today instead of explaining it again.",
+  "means": "Repeated questions point to a flaw in your process, so fix the document once rather than patching it by hand forever.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b03",
+  "lane": "motivation",
+  "text": "Getting ready to launch can quietly become the whole job.\n\nPick a day this week when the first customer can pay you, and let everything still unfinished wait until after that.",
+  "means": "Preparation can replace selling without you noticing, so set a near date for taking payment and finish the rest later.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b04",
+  "lane": "motivation",
+  "text": "You will not win an argument with a customer about a bill, even when you are right.\n\nAgree on what happens next, whether that is a fix or a refund, and keep the customer instead of the point.",
+  "means": "Billing disputes are lost even when won, so move straight to a remedy and protect the relationship over your pride.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b05",
+  "lane": "motivation",
+  "text": "Chase an old quote every morning before you do anything else, because a quote nobody chases is a no you have accepted for the customer.",
+  "means": "Unanswered quotes are not refusals yet, so make following them up a daily habit rather than deciding for the buyer.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b06",
+  "lane": "motivation",
+  "text": "There will never be a quiet month to raise your prices.\n\nTell your customers the new price now and give them a date when it starts, so the change feels planned rather than sudden.",
+  "means": "Waiting for the right moment to charge more keeps you underpaid, so announce the increase with notice and stick to it.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b07",
+  "lane": "motivation",
+  "text": "Nobody has to give you permission to charge for the help people already keep asking you for.\n\nName a price the next time someone asks, and let their answer tell you what it is worth.",
+  "means": "Frequent requests for free help show demand, so quote a fee next time and learn from how people respond.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b08",
+  "lane": "opinion",
+  "text": "Judge an automation quote by how much work it takes off your week, not by how many steps or apps the builder lists.\n\nA long list of steps shows the builder's effort, but only the time you get back is worth paying for.",
+  "means": "When buying automation, measure value by hours saved for you, and ignore impressive sounding technical detail in the proposal.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b09",
+  "lane": "opinion",
+  "text": "Hire your first helper for the job you do worst, not the job you hate most.\n\nThe job you hate still gets done in the end, but the job you do badly is quietly costing you customers.",
+  "means": "Your first hire should cover your weakest area, because poor work loses business while disliked work merely annoys you.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b10",
+  "lane": "opinion",
+  "text": "Let go of the customer who disputes every invoice, because the time spent chasing them is taken from customers who pay on time.",
+  "means": "Some clients cost more than they bring, so release the constant arguers and give that energy to reliable payers.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b11",
+  "lane": "opinion",
+  "text": "Stop giving discounts to win a first job.\n\nThe customer who came for the low price expects it on the next job too, and raising it then feels like a broken promise.",
+  "means": "Opening with a cut rate sets the price you will be stuck with, so quote your real fee from the start.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b12",
+  "lane": "opinion",
+  "text": "Write down how a task is done only after someone else has done it while you watched.\n\nThey will trip over the steps you forgot you take, and those are the steps your written guide would have missed.",
+  "means": "Watching a helper attempt the work reveals hidden steps, so draft the instructions after that trial rather than before it.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b13",
+  "lane": "opinion",
+  "text": "Start with a boring automation, like sending the invoice the moment a job is marked done, before you pay for an AI chatbot on your website.\n\nThe invoice brings in money every week, while the chatbot mostly answers questions you could have put on a page.",
+  "means": "Spend first on automating tasks tied directly to getting paid, and leave flashy customer chat tools until later.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b14",
+  "lane": "opinion",
+  "text": "Give customers one way to reach you and answer it well, rather than every app you only check when you remember.",
+  "means": "Fewer contact channels handled reliably beat many neglected ones, so pick the one you will actually watch and promote only that.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b15",
+  "lane": "lesson",
+  "seed": "N25112501",
+  "text": "A booking automation is only proven when it has made a real booking that you can find in your real calendar with the right details.\n\nAsk to see that booking before you call the job finished, because a test that only finds free times proves nothing about booking.",
+  "means": "Insist on seeing a genuine appointment created in your live calendar before accepting any scheduling automation as complete.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b16",
+  "lane": "lesson",
+  "seed": "N25112511",
+  "text": "In a long set of instructions for an AI assistant, an old rule can quietly cancel a new one.\n\nA rule that bans talking about money will stop the assistant saying a price you add later, so look for clashes before you add a line.",
+  "means": "Before adding to your assistant's instructions, read existing rules for anything that contradicts the new one, or it may be silently ignored.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b17",
+  "lane": "lesson",
+  "seed": "L0693",
+  "text": "Never let AI describe your business as the largest or the most experienced unless you can point to where that is true.\n\nRead every AI written page for boasts like these, because one wrong claim makes a customer doubt everything else you say.",
+  "means": "Remove unsupported bragging from AI produced marketing, since a single false boast damages trust in all your other claims.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b18",
+  "lane": "lesson",
+  "seed": "L0831",
+  "text": "Blog lists of free business tools often disagree with the prices on the companies' own websites.\n\nCheck the price on the company's own pricing page before you choose, because that is the price you will actually be charged.",
+  "means": "Roundup articles are unreliable about cost, so confirm pricing directly with the vendor before committing to any tool.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b19",
+  "lane": "builder",
+  "seed": "L1346",
+  "text": "When you send email through Resend, store the message id it gives back for every send.\n\nWithout it you cannot tell an email Resend accepted from one that was delivered, and test sends to a dead domain bounce and hurt delivery for real recipients.",
+  "means": "Keep Resend's returned identifier so you can trace delivery, and send tests only to working addresses to protect inbox placement.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b20",
+  "lane": "builder",
+  "seed": "L1126",
+  "text": "When an automation writes rows to Google Sheets, add the row first and mark it as written only after that works.\n\nMark it first and a failed Sheets call loses that row for good, because a row marked written is never tried again.",
+  "means": "Order the steps so the record is saved before it is flagged done, otherwise a failure leaves data permanently skipped.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b21",
+  "lane": "builder",
+  "seed": "N25112510",
+  "text": "When an AI voice agent must open every call with the same words, set them as its fixed first message instead of a rule in the prompt.\n\nIn one test, an agent followed the prompt rule for its opening only 1 time in 8.",
+  "means": "Put a required greeting in the agent's first message setting, because prompt instructions for exact wording are followed unreliably.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b22",
+  "lane": "builder",
+  "url": "https://github.com/n8n-io/n8n/releases/tag/stable",
+  "text": "n8n 2.49.6 makes the new expression engine give the same results as the old one for base64, urlEncode and format.\n\nSo if those expressions gave you different output on the newer engine, update n8n and run the workflow again to check.",
+  "means": "This n8n release fixes mismatched encoding and formatting results, so builders who saw odd output should upgrade and retest.",
+  "at": "2026-11-25T14:57:41Z"
+ },
+ {
+  "id": "w261125b23",
+  "lane": "buyers",
+  "seed": "R25112501",
+  "text": "Out of 190 public reviews of automation sellers, 7 scored below 4 out of 5, and 3 of those 7 complained about slow delivery.\n\nAnother 8 praised delivery on time or early, so give buyers a date you know you can beat.",
+  "means": "Late delivery drives many poor ratings while punctual work earns praise, so promise realistic deadlines and finish ahead of them.",
+  "at": "2026-11-25T14:57:41Z"
  }
 ]
