@@ -1,6 +1,92 @@
 {
-"problems": [
-"scheduler did not answer: HTTP Error 401: Unauthorized"
+"on": false,
+"pool": {
+"motivation": 3,
+"builder": 2,
+"opinion": 2,
+"lesson": 2,
+"news": 2,
+"buyers": 1
+},
+"pool_total": 12,
+"booked": 0,
+"next": null,
+"missed": [],
+"problems": [],
+"rejected": [
+{
+"id": "planted-pol",
+"why": [
+"politics: election"
+]
+},
+{
+"id": "planted-rel",
+"why": [
+"religion: Pray"
+]
+},
+{
+"id": "planted-dash",
+"why": [
+"long dash: \u2014"
+]
+},
+{
+"id": "planted-src",
+"why": [
+"the word source: (Source",
+"two sentences in one paragraph"
+]
+},
+{
+"id": "planted-name",
+"why": [
+"private name or killed story"
+]
+},
+{
+"id": "planted-num",
+"why": [
+"number with nothing behind it: 5",
+"claims evidence"
+]
+},
+{
+"id": "planted-rep",
+"why": [
+"same opening as a live post: tell your client the bad"
+]
+},
+{
+"id": "planted-quote",
+"why": [
+"same opening as a live post: the task you keep dodging"
+]
+}
 ],
-"on": null
+"used": [
+"A-b1",
+"A-l1",
+"https://approved/n1",
+"A-l2",
+"A-b2",
+"https://approved/n2",
+"A-r1"
+],
+"recent": [
+"You do not have to feel like following up.\n\nOpen the message",
+"Claude Code could tell you \"Login successful.\" when your log",
+"Before you hire someone for a task, do it yourself for a wee",
+"An automation can stop with nothing broken, because the pass",
+"Make.com now lets developers run one app action from their o",
+"Your customers will never see the week you almost closed the",
+"If your AI phone assistant pauses in an odd place when it re",
+"You can see how much of your Claude limit you have used with",
+"Tell your client the bad news in the same hour you find it.\n",
+"Perplexity's AI teammates can now take a phone call from iOS",
+"I read 35 reviews that people left after buying an automatio",
+"Ten half built ideas earn you nothing, but one small finishe"
+],
+"at": "2026-11-25T14:13:02.836Z"
 }
