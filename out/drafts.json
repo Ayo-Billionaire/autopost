@@ -1,1 +1,159 @@
-[]
+[
+ {
+  "id": "w261125a01",
+  "lane": "motivation",
+  "text": "A plain offer you send today will win more work than the perfect one still sitting in your drafts.\n\nSend it now and improve the wording when the next customer asks you a question.",
+  "means": "Stop polishing the offer and send it, because real questions from customers show you what to change better than more editing does.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a02",
+  "lane": "motivation",
+  "text": "When a customer says no, they are saying no to this month, not to you for good.\n\nPut a date in your calendar to ask again, and bring something new when you do.",
+  "means": "A refusal is about timing, so plan a later approach with a fresh reason rather than writing that customer off.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a03",
+  "lane": "motivation",
+  "text": "Before you take on a new kind of work, decide which old job you will stop doing, because your week will not stretch to fit both.\n\nWrite the stopped job down so you do not slide back into it.",
+  "means": "Adding work means dropping something, so choose what goes and record it to keep yourself honest about your time.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a04",
+  "lane": "motivation",
+  "text": "Saying your price out loud feels heavy only until you hear the answer.\n\nSay the number, stop talking and let the customer reply, because filling the silence is how discounts begin.",
+  "means": "Name your fee and wait quietly, since nervous talking after the number usually ends with you lowering it yourself.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a05",
+  "lane": "motivation",
+  "text": "At the end of the week, count the invoices you sent and the quotes you chased, not the hours you felt busy.\n\nBusy is a feeling, but a sent invoice is something your bank account can see.",
+  "means": "Judge your week by money requested and offers pursued, because effort that produces no invoice does not pay anything.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a06",
+  "lane": "motivation",
+  "text": "You do not need a website to sell your first service.\n\nMessage the people who already know your work, tell them what you now offer and what it costs, and let their answers shape everything else.",
+  "means": "Start selling to people who trust you already, then build pages and branding around what they actually respond to.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a07",
+  "lane": "opinion",
+  "text": "Put your price on your website, because the customers who leave when they see it were never going to pay it after a long call either.",
+  "means": "Showing the price saves both sides wasted calls and brings you enquiries from people who can already afford you.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a08",
+  "lane": "opinion",
+  "text": "Give a new hire the finished example first and the written instructions second.\n\nPeople copy what they can see far better than they follow what they are told.",
+  "means": "When passing on a task, show a completed version before explaining steps, because a model answer teaches faster than a document.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a09",
+  "lane": "opinion",
+  "text": "Let AI write the first draft of your customer emails, but never let it send one.\n\nThe draft saves you time, and the minute you spend reading it is what keeps your name safe.",
+  "means": "Use AI to save writing time, yet keep a human read before anything reaches a customer so mistakes never carry your name.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a10",
+  "lane": "opinion",
+  "text": "Charge a deposit before you start any job, even for customers you like.\n\nA deposit shows you who is serious, and it means a cancelled job still covers the time you held for it.",
+  "means": "Take money upfront on every job so cancellations do not cost you, whatever your relationship with the person booking.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a11",
+  "lane": "opinion",
+  "text": "Before you pay for an automation, ask the builder what happens on the day it fails and who gets told.\n\nA builder who only talks about the day it works has not planned for the day it does not.",
+  "means": "Judge an automation seller by their failure plan, because anything will break eventually and someone must hear about it fast.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a12",
+  "lane": "lesson",
+  "seed": "L0462",
+  "text": "Your email software shows you the message you submitted, not the one your customer received.\n\nSend the real email to a spare inbox of your own and read it there before you trust what customers are seeing.",
+  "means": "The sending screen can differ from the delivered result, so check a real copy arriving in an inbox you control.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a13",
+  "lane": "lesson",
+  "seed": "L1872",
+  "text": "A run of twenty follow ups does little if eleven of them only say \"just bumping this\".\n\nGive every follow up its own reason, such as a new detail or a date that matters to the customer.",
+  "means": "Chasing works when each message brings something fresh, so plan a distinct purpose for every reminder instead of repeating a nudge.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a14",
+  "lane": "lesson",
+  "seed": "L0136",
+  "text": "An automatic send that dies half way and returns nothing should never just be pressed again.\n\nCheck whether the message already went out, because a blind retry can send your customer the same message twice.",
+  "means": "After a failed automated send, confirm what actually happened before retrying so customers are not hit with duplicates.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a15",
+  "lane": "lesson",
+  "seed": "L1178",
+  "text": "AI can read your supplier invoices easily, but matching each one to the right job is the hard part.\n\nSupplier invoices rarely name the job, so match on the purchase order number first and the delivery address second.",
+  "means": "The danger with invoice automation is misfiling costs, so link bills to jobs by order number, falling back on the delivery address.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a16",
+  "lane": "builder",
+  "seed": "L1828",
+  "text": "Make.com runs your schedules in your organisation's time zone, not in your own.\n\nA scenario set for 08:00 on a New York account fired at 1pm in Lagos, so check which time zone the organisation uses before you trust a schedule.",
+  "means": "Scheduled runs follow the account's zone setting, so confirm it matches the clock you mean or messages land hours late.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a17",
+  "lane": "builder",
+  "seed": "L0916",
+  "text": "In n8n, a node you switch off for a safe test still shows as run, and it passes its input straight on to the next node.\n\nLook at what the next node received before you decide the test was safe.",
+  "means": "A disabled step in n8n can look executed while forwarding data, so inspect the following step's input after testing.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a18",
+  "lane": "builder",
+  "seed": "L0188",
+  "text": "AppSheet bots only fire on changes made through AppSheet itself.\n\nWhen someone edits the Sheet behind your app directly, the bot never runs, so make every change through the app or the automation will miss it.",
+  "means": "Edits made straight in the spreadsheet bypass AppSheet automations, so route all updates through the app to keep bots firing.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a19",
+  "lane": "builder",
+  "url": "https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+  "text": "OpenAI's Codex 0.172.0 now says which API spend limit you reached, and it reports provider errors as soon as they arrive.\n\nSo when a run stops, you can see straight away whether you hit a spending cap or the provider failed, instead of guessing.",
+  "means": "Codex users now learn the reason a job halted immediately, telling budget limits apart from outages and fixing the right thing.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a20",
+  "lane": "news",
+  "url": "https://elevenlabs.io/docs/changelog/2026/11/23",
+  "text": "ElevenLabs voice agents can now be defined in code with the Agent builder in the Python and JavaScript SDKs, from version 2.80.0.\n\nOne push creates or updates the agent and every webhook and tool it uses, so the agent can live in your project files.",
+  "means": "Builders using ElevenLabs can keep agent settings and tools in code, updating everything with a single command instead of clicking through screens.",
+  "at": "2026-11-25T14:16:20Z"
+ },
+ {
+  "id": "w261125a21",
+  "lane": "buyers",
+  "seed": "B04",
+  "text": "Out of 35 reviews left by people who bought an automation, 4 praised being walked through it or having their questions answered.\n\nSo book the walkthrough call before you send the final invoice, because buyers remember it.",
+  "means": "Some buyers value an explanation enough to mention it in reviews, so builders should plan a guided handover for every delivery.",
+  "at": "2026-11-25T14:16:20Z"
+ }
+]
