@@ -1,18 +1,19 @@
 {
-"on": false,
+"on": true,
 "pool": {
-"motivation": 3,
-"builder": 2,
-"opinion": 2,
-"lesson": 2,
-"news": 2,
+"motivation": 6,
+"opinion": 3,
+"lesson": 4,
+"builder": 3,
 "buyers": 1
 },
-"pool_total": 12,
-"booked": 0,
-"next": null,
+"pool_total": 17,
+"booked": 14,
+"next": "2026-11-25T15:00:00Z",
 "missed": [],
-"problems": [],
+"problems": [
+"only 31 posts in hand, under 3 days"
+],
 "rejected": [
 {
 "id": "planted-pol",
@@ -63,6 +64,18 @@
 "why": [
 "same opening as a live post: the task you keep dodging"
 ]
+},
+{
+"id": "w261125a11",
+"why": [
+"dropped by hand: repeats an earlier idea or states vendor behaviour that may be out of date"
+]
+},
+{
+"id": "w261125a18",
+"why": [
+"dropped by hand: repeats an earlier idea or states vendor behaviour that may be out of date"
+]
 }
 ],
 "used": [
@@ -72,21 +85,53 @@
 "A-l2",
 "A-b2",
 "https://approved/n2",
-"A-r1"
+"A-r1",
+"L0462",
+"L1872",
+"L0136",
+"L1178",
+"L1828",
+"L0916",
+"L0188",
+"https://github.com/openai/codex/releases/tag/rust-v0.172.0",
+"https://elevenlabs.io/docs/changelog/2026/11/23",
+"B04",
+"L0188",
+"L0245",
+"L0032"
 ],
 "recent": [
-"You do not have to feel like following up.\n\nOpen the message",
-"Claude Code could tell you \"Login successful.\" when your log",
 "Before you hire someone for a task, do it yourself for a wee",
-"An automation can stop with nothing broken, because the pass",
 "Make.com now lets developers run one app action from their o",
+"I read 35 reviews that people left after buying an automatio",
+"You do not have to feel like following up.\n\nOpen the message",
 "Your customers will never see the week you almost closed the",
+"Claude Code could tell you \"Login successful.\" when your log",
+"Tell your client the bad news in the same hour you find it.\n",
+"An automation can stop with nothing broken, because the pass",
+"Perplexity's AI teammates can now take a phone call from iOS",
+"Ten half built ideas earn you nothing, but one small finishe",
 "If your AI phone assistant pauses in an odd place when it re",
 "You can see how much of your Claude limit you have used with",
-"Tell your client the bad news in the same hour you find it.\n",
-"Perplexity's AI teammates can now take a phone call from iOS",
-"I read 35 reviews that people left after buying an automatio",
-"Ten half built ideas earn you nothing, but one small finishe"
+"Put your price on your website, because the customers who le",
+"ElevenLabs voice agents can now be defined in code with the ",
+"A plain offer you send today will win more work than the per",
+"When a customer says no, they are saying no to this month, n",
+"Before you take on a new kind of work, decide which old job ",
+"Saying your price out loud feels heavy only until you hear t",
+"At the end of the week, count the invoices you sent and the ",
+"You do not need a website to sell your first service.\n\nMessa",
+"Give a new hire the finished example first and the written i",
+"Let AI write the first draft of your customer emails, but ne",
+"Charge a deposit before you start any job, even for customer",
+"Your email software shows you the message you submitted, not",
+"A run of twenty follow ups does little if eleven of them onl",
+"An automatic send that dies half way and returns nothing sho",
+"AI can read your supplier invoices easily, but matching each",
+"Make.com runs your schedules in your organisation's time zon",
+"In n8n, a node you switch off for a safe test still shows as",
+"OpenAI's Codex 0.172.0 now says which API spend limit you re",
+"Out of 35 reviews left by people who bought an automation, 4"
 ],
-"at": "2026-11-25T14:13:02.836Z"
+"at": "2026-11-25T14:20:07.574Z"
 }
