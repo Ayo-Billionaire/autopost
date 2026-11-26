@@ -1,16 +1,15 @@
 {
 "on": true,
 "pool": {
-"motivation": 17,
-"opinion": 14,
-"lesson": 12,
+"motivation": 22,
+"opinion": 16,
+"lesson": 11,
 "builder": 10,
-"buyers": 2,
-"news": 1
+"buyers": 2
 },
-"pool_total": 56,
+"pool_total": 61,
 "booked": 14,
-"next": "2026-11-26T01:00:00Z",
+"next": "2026-11-26T07:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -138,13 +137,14 @@
 "When a customer says no, they are saying no to this month, n",
 "Make.com runs your schedules in your organisation's time zon",
 "Give a new hire the finished example first and the written i",
+"Your email software shows you the message you submitted, not",
+"Google Search can now answer from your Google Drive files an",
 "Before you take on a new kind of work, decide which old job ",
 "Saying your price out loud feels heavy only until you hear t",
 "At the end of the week, count the invoices you sent and the ",
 "You do not need a website to sell your first service.\n\nMessa",
 "Let AI write the first draft of your customer emails, but ne",
 "Charge a deposit before you start any job, even for customer",
-"Your email software shows you the message you submitted, not",
 "A run of twenty follow ups does little if eleven of them onl",
 "An automatic send that dies half way and returns nothing sho",
 "AI can read your supplier invoices easily, but matching each",
@@ -192,8 +192,15 @@
 "Telling Claude Opus to avoid a generic look only swaps one d",
 "An expired GitHub token can be worse than no token, because ",
 "When an AI coding agent tells you its git mistake cannot be ",
-"Google Search can now answer from your Google Drive files an",
-"Only 5 of 190 public reviews of automation sellers praised t"
+"Only 5 of 190 public reviews of automation sellers praised t",
+"Read the first quote you ever sent a customer, because it sh",
+"One big customer who pays most of your bills feels safe righ",
+"Nobody will tell people about your best work while you keep ",
+"Learn enough about your own bookkeeping to read the numbers,",
+"When a job you handed over comes back wrong, read the instru",
+"Do not let people who have never sold anything tell you your",
+"Quote a fixed price for the job rather than an hourly rate, ",
+"Do not pay for an automation of a job your team still does i"
 ],
-"at": "2026-11-26T00:29:31.385Z"
+"at": "2026-11-26T06:47:58.658Z"
 }
