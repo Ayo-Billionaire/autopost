@@ -214,5 +214,17 @@
   "margin": 131,
   "text": "Judge an automation quote by how much work it takes off your week, not by how many steps or apps the builder lists.\n\nA long list of steps shows the builder's effort, but only the time you get back is worth paying for.",
   "at": 1795714929
+ },
+ {
+  "id": "w261125b09",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 178,
+  "text": "Hire your first helper for the job you do worst, not the job you hate most.\n\nThe job you hate still gets done in the end, but the job you do badly is quietly costing you customers.",
+  "at": 1795725735
  }
 ]
