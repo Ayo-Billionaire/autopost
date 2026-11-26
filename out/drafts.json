@@ -645,5 +645,175 @@
   "text": "21 of 190 public reviews of automation sellers came from buyers hiring the same seller again, and every one of those 21 scored 4.7 or higher out of 5.\n\nWhen you choose a builder, ask how many of their customers have come back for a second job.",
   "means": "Returning buyers rate sellers very highly, so ask a builder about repeat customers as a sign they deliver what people want.",
   "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126b01",
+  "lane": "motivation",
+  "text": "Send your offer to the customer you think is too big for you.\n\nThe worst answer is no, and a no from a large company costs you nothing more than a no from a small one.",
+  "means": "Fear of rejection should not decide who you pitch, since being turned down by a big firm is no more costly than being turned down by a small one.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b02",
+  "lane": "motivation",
+  "text": "Being nervous before a sales call does not mean you are bad at selling.\n\nPick up the phone with the nerves still there, because they only fade once you have made enough calls.",
+  "means": "Nerves are normal and shrink with practice, so pick up the phone anyway instead of waiting until you feel confident.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b03",
+  "lane": "motivation",
+  "text": "When you break a promise to a customer, make the next promise smaller and keep it exactly.\n\nTrust comes back through small promises kept, not through a big apology.",
+  "means": "After letting a customer down, rebuild by committing to something modest and delivering it precisely, rather than relying on words.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b04",
+  "lane": "motivation",
+  "text": "When the bank balance is low, the first fix is more offers sent this week, not fewer things bought.\n\nCutting costs buys you time, but only selling brings money in.",
+  "means": "A cash shortage is usually a sales shortage, so put your energy into asking for work before trimming expenses.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b05",
+  "lane": "motivation",
+  "text": "Keep every kind message a customer sends you in one folder.\n\nRead it before you quote a big job, so your price comes from the work you have done and not from your nerves.",
+  "means": "Saved praise reminds you of your real value, which helps you quote confidently instead of undercharging out of worry.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b06",
+  "lane": "motivation",
+  "text": "Ask the customer for everything you need before you start a job, such as photos, logins and sign off.\n\nA job that stops halfway while you wait costs you more than starting a day later.",
+  "means": "Collect all materials and approvals up front, because stalled work drags on and eats more of your time than a short delay at the start.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b07",
+  "lane": "motivation",
+  "text": "Put an hour in your calendar each week to work on your prices and offers, and guard it like a customer booking.\n\nCustomer work will fill the whole week if you let it.",
+  "means": "Protect regular time for improving how you sell and charge, since daily jobs will otherwise crowd that thinking out completely.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b08",
+  "lane": "motivation",
+  "text": "When the person you quoted stops replying, find out who else in that business makes the decision.\n\nYour contact may simply be busy, and someone beside them may be waiting for your answer.",
+  "means": "A silent contact is not always a refusal, so look for another decision maker at the same company rather than giving up.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b09",
+  "lane": "opinion",
+  "text": "Never let the person who builds your automation be the only one who tests it.\n\nAsk someone on your team to try it with real customer details, because they will do things the builder never thought of.",
+  "means": "Builders test the paths they designed, so have a staff member try it the way your business really works before you accept it.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b10",
+  "lane": "opinion",
+  "text": "Raise prices for new customers first and for existing customers later.\n\nNew customers never saw the old price, so you learn whether the new one holds without risking the people who already pay you.",
+  "means": "Test a higher price on people who never knew the old one, then move your current customers once you know it works.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b11",
+  "lane": "opinion",
+  "text": "Do not hire a friend for a job where you would need to criticise their work.\n\nYou will put off the hard conversation, and the business pays for every week you delay it.",
+  "means": "Hiring friends makes honest feedback harder, so only do it for roles where you will rarely need to correct them.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b12",
+  "lane": "opinion",
+  "text": "Pause new work for any customer whose last invoice is overdue, however friendly they are.\n\nCarrying on teaches them that paying late changes nothing.",
+  "means": "Stopping fresh jobs until the old bill is paid shows customers that late payment has a real consequence.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b13",
+  "lane": "opinion",
+  "text": "Tell customers when an AI wrote the reply they are reading.\n\nThey forgive clumsy wording from a machine far more easily than they forgive feeling tricked.",
+  "means": "Being open about AI written messages protects trust, since people mind deception much more than imperfect phrasing.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b14",
+  "lane": "opinion",
+  "text": "Say no to a job you cannot finish on time, even when you need the money.\n\nA late job costs you the customer and their referrals, while a polite no often brings them back later.",
+  "means": "Turning down work you cannot deliver on schedule keeps your reputation intact and leaves the door open for future jobs.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b15",
+  "lane": "lesson",
+  "seed": "L0333",
+  "text": "When you want an AI to write more simply, give it a hard limit it can count, such as a word limit for each sentence.\n\nSoft wording that asks for the same thing often changes nothing.",
+  "means": "AI follows measurable targets far better than vague requests, so turn style wishes into firm limits it can check.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b16",
+  "lane": "lesson",
+  "seed": "L0689",
+  "text": "Ignore the score out of 10 that an AI gives your writing.\n\nThe same letter got 8 from one AI judge and 6 from another, so ask it to list false claims and broken rules instead.",
+  "means": "Numeric ratings from AI swing too much to trust, whereas a list of specific mistakes gives you something real to fix.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b17",
+  "lane": "lesson",
+  "seed": "L1762",
+  "text": "Never tell an AI to check a website when it cannot open websites.\n\nIt will still report a check, because the instruction leaves it nothing to do except invent the result.",
+  "means": "Only ask an AI for checks it can actually perform, or it will make up a confident answer to satisfy you.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b18",
+  "lane": "lesson",
+  "seed": "L1571",
+  "text": "Before you build a spreadsheet of leads for new software, open the import layout that software expects.\n\nOne list was built with a row per company when the importer wanted a row per person, so the whole layout was wrong.",
+  "means": "Check how the receiving program wants data arranged before collecting it, which saves rebuilding the sheet later.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b19",
+  "lane": "builder",
+  "seed": "L1475",
+  "text": "A test script that writes to your database should create its own test record first.\n\nIf it grabs the first row it finds and edits that, it is changing real data.",
+  "means": "Give write tests a record made just for them, so running a check never quietly alters live information.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b20",
+  "lane": "builder",
+  "seed": "L0108",
+  "text": "A new automated test that passes the first time you run it has not proven anything yet.\n\nRun it once on an input you know is wrong, and trust it only after you have seen it fail.",
+  "means": "A test is only useful if it can catch a problem, so confirm it fails on bad input before relying on it.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b21",
+  "lane": "builder",
+  "seed": "N25112502",
+  "text": "Before you pay for a real test of an AI automation, run every step once with made up AI replies, which costs nothing.\n\nThen deploy it and check it live, and only after that spend money on the real test.",
+  "means": "Use free fake responses to prove the whole flow works, so paid testing is not wasted on simple wiring faults.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b22",
+  "lane": "builder",
+  "seed": "N25112508",
+  "text": "An AI voice agent named an office the caller never mentioned in 3 of 6 test chats, even with strict wording in its prompt.\n\nA code check that the office appears in the caller's own words, asking when it does not, fixed it in 3 out of 3 tests.",
+  "means": "Prompt wording alone did not stop invented details, but checking the caller's actual words in code and asking when missing did.",
+  "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261126b23",
+  "lane": "buyers",
+  "seed": "R26112604",
+  "text": "7 of 190 public reviews of automation sellers praised the seller for keeping them updated through the project.\n\nWhen you hire a builder, agree a day each week for a short update, so you never have to chase them to learn where things stand.",
+  "means": "Buyers value regular progress news, so set a fixed weekly check in with your builder from the start.",
+  "at": "2026-11-26T16:43:56Z"
  }
 ]
