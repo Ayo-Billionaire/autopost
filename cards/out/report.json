@@ -166,5 +166,29 @@
   "margin": 295,
   "text": "Chase an old quote every morning before you do anything else, because a quote nobody chases is a no you have accepted for the customer.",
   "at": 1795682539
+ },
+ {
+  "id": "w261125b06",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "There will never be a quiet month to raise your prices.\n\nTell your customers the new price now and give them a date when it starts, so the change feels planned rather than sudden.",
+  "at": 1795693330
+ },
+ {
+  "id": "first-m3",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 178,
+  "text": "Ten half built ideas earn you nothing, but one small finished offer can be sold tomorrow morning.\n\nPick the one closest to done and finish it this week.",
+  "at": 1795693330
  }
 ]
