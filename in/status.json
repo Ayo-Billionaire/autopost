@@ -2,14 +2,14 @@
 "on": true,
 "pool": {
 "motivation": 22,
-"opinion": 20,
 "lesson": 14,
 "builder": 13,
-"buyers": 3
+"opinion": 19,
+"buyers": 2
 },
-"pool_total": 72,
-"booked": 13,
-"next": "2026-11-26T15:00:00Z",
+"pool_total": 70,
+"booked": 14,
+"next": "2026-11-26T17:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -152,10 +152,11 @@
 "A run of twenty follow ups does little if eleven of them onl",
 "In n8n, a node you switch off for a safe test still shows as",
 "Let AI write the first draft of your customer emails, but ne",
+"Charge a deposit before you start any job, even for customer",
+"Out of 190 public reviews of automation sellers, 7 scored be",
 "Saying your price out loud feels heavy only until you hear t",
 "At the end of the week, count the invoices you sent and the ",
 "You do not need a website to sell your first service.\n\nMessa",
-"Charge a deposit before you start any job, even for customer",
 "An automatic send that dies half way and returns nothing sho",
 "AI can read your supplier invoices easily, but matching each",
 "OpenAI's Codex 0.172.0 now says which API spend limit you re",
@@ -181,7 +182,6 @@
 "When an automation writes rows to Google Sheets, add the row",
 "When an AI voice agent must open every call with the same wo",
 "n8n 2.49.6 makes the new expression engine give the same res",
-"Out of 190 public reviews of automation sellers, 7 scored be",
 "Answer an angry customer with a phone call rather than a lon",
 "If a customer needs several meetings before they buy, turn u",
 "Before you finish work today, write down the name of the fir",
@@ -225,5 +225,5 @@
 "When you summarise an AI agent's log by keeping only its tex",
 "21 of 190 public reviews of automation sellers came from buy"
 ],
-"at": "2026-11-26T13:23:52.261Z"
+"at": "2026-11-26T16:23:53.560Z"
 }
