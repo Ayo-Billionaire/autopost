@@ -2,14 +2,14 @@
 "on": true,
 "pool": {
 "motivation": 22,
-"opinion": 21,
+"opinion": 20,
 "lesson": 14,
 "builder": 13,
 "buyers": 3
 },
-"pool_total": 73,
-"booked": 14,
-"next": "2026-11-26T11:00:00Z",
+"pool_total": 72,
+"booked": 13,
+"next": "2026-11-26T15:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -151,10 +151,10 @@
 "Before you take on a new kind of work, decide which old job ",
 "A run of twenty follow ups does little if eleven of them onl",
 "In n8n, a node you switch off for a safe test still shows as",
+"Let AI write the first draft of your customer emails, but ne",
 "Saying your price out loud feels heavy only until you hear t",
 "At the end of the week, count the invoices you sent and the ",
 "You do not need a website to sell your first service.\n\nMessa",
-"Let AI write the first draft of your customer emails, but ne",
 "Charge a deposit before you start any job, even for customer",
 "An automatic send that dies half way and returns nothing sho",
 "AI can read your supplier invoices easily, but matching each",
@@ -225,5 +225,5 @@
 "When you summarise an AI agent's log by keeping only its tex",
 "21 of 190 public reviews of automation sellers came from buy"
 ],
-"at": "2026-11-26T10:23:52.399Z"
+"at": "2026-11-26T13:23:52.261Z"
 }
