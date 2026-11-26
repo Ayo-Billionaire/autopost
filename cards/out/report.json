@@ -202,5 +202,17 @@
   "margin": 178,
   "text": "Nobody has to give you permission to charge for the help people already keep asking you for.\n\nName a price the next time someone asks, and let their answer tell you what it is worth.",
   "at": 1795704130
+ },
+ {
+  "id": "w261125b08",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "Judge an automation quote by how much work it takes off your week, not by how many steps or apps the builder lists.\n\nA long list of steps shows the builder's effort, but only the time you get back is worth paying for.",
+  "at": 1795714929
  }
 ]
