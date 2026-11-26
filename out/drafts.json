@@ -482,5 +482,168 @@
   "text": "Only 5 of 190 public reviews of automation sellers praised the seller for testing the automation before handing it over.\n\nSo ask your builder to show you a working test run before you pay the final invoice.",
   "means": "Testing before delivery is rarely mentioned by buyers, so request a live demonstration of the finished automation before making the last payment.",
   "at": "2026-11-25T16:45:09Z"
+ },
+ {
+  "id": "w261126a01",
+  "lane": "motivation",
+  "text": "Read the first quote you ever sent a customer, because it shows how much better at the work you have become since.\n\nIf your quotes today still sound like that one, rewrite them this week around what you can do now.",
+  "means": "Your skills have grown faster than your paperwork, so update how you describe your work to match the level you actually deliver today.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a02",
+  "lane": "motivation",
+  "text": "One big customer who pays most of your bills feels safe right up to the week they leave.\n\nGo and win a second customer of the same size while the first one is still happy.",
+  "means": "Depending on a single large account is a hidden danger, so look for another account of similar size before you are forced to.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a03",
+  "lane": "motivation",
+  "text": "Nobody will tell people about your best work while you keep quiet about it.\n\nAsk every happy customer for a review on the day you finish the job, while they still remember how it felt.",
+  "means": "Praise from customers fades quickly, so request feedback straight away when they are pleased and let it speak for your business.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a04",
+  "lane": "motivation",
+  "text": "Learn enough about your own bookkeeping to read the numbers, even if you pay someone else to keep them.\n\nYou cannot judge the person you hire for a job you do not understand at all.",
+  "means": "Handing over your accounts is fine, but know the basics yourself so you can spot when the person doing them gets it wrong.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a05",
+  "lane": "motivation",
+  "text": "When a job you handed over comes back wrong, read the instructions you gave before you blame the person who followed them.\n\nA lot of handover mistakes start with something you knew and never wrote down.",
+  "means": "Poor results from staff often trace back to unclear briefs, so check your own directions first and add the missing detail.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a06",
+  "lane": "motivation",
+  "text": "Do not let people who have never sold anything tell you your price is too high.\n\nAsk the customers who already pay you what the work saved them, and set your price from their answer.",
+  "means": "Pricing advice should come from paying buyers, not from friends who have never charged, so base your rate on real customer value.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a07",
+  "lane": "opinion",
+  "text": "Quote a fixed price for the job rather than an hourly rate, because your customer is buying the result and not your time.\n\nAn hourly rate also punishes you for getting faster at your own work.",
+  "means": "Charging per outcome rewards skill and speed, while charging per hour earns you less as you improve, so price the finished job.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a08",
+  "lane": "opinion",
+  "text": "Do not pay for an automation of a job your team still does in different ways.\n\nAgree on one way to do it by hand first, or the automation will just repeat the confusion faster.",
+  "means": "Settle on a single agreed process with your staff before buying software to run it, otherwise you pay to speed up a mess.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a09",
+  "lane": "opinion",
+  "text": "Pay a new helper for one small trial job before you offer them regular work.\n\nYou learn more from how they handle a real task than from anything they say in an interview.",
+  "means": "A short paid test shows how someone actually works, which tells you far more than talk, so try them before committing.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a10",
+  "lane": "opinion",
+  "text": "Every account your business runs on should be in your name, even when someone else set it up for you.\n\nIf the builder leaves, you should still be able to log in, pay the bill and hand it to someone new.",
+  "means": "Own the logins and billing for all your software yourself, so nobody walking away can lock you out of your own business.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a11",
+  "lane": "opinion",
+  "text": "Use AI to read your customer complaints and reviews before you use it to write your marketing.\n\nIt will show you what customers keep asking for, and that is what your marketing should say.",
+  "means": "Let AI study what buyers say first, then build your adverts around those repeated wishes instead of guessing what to promote.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a12",
+  "lane": "opinion",
+  "text": "Send a short written summary after every call with a customer, because anything nobody wrote down turns into an argument later.\n\nKeep it to what was agreed, who does what and by when.",
+  "means": "A brief recap email after each conversation stops disputes, so record the agreement, the owner of each task and the deadline.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a13",
+  "lane": "opinion",
+  "text": "Give a customer two prices to choose from, not a long menu of packages.\n\nToo many options make people put the decision off, and a decision put off is often a sale lost.",
+  "means": "Fewer choices help buyers decide quickly, so cut your offer down to a simple pair of options and close more deals.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a14",
+  "lane": "lesson",
+  "seed": "L0076",
+  "text": "Testing an AI assistant once tells you very little, because the same question can get a good answer one time and a poor one the next.\n\nAsk it the same thing several times before you let it answer your customers.",
+  "means": "A single good result from an AI proves nothing, so repeat your test many times before trusting it in front of buyers.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a15",
+  "lane": "lesson",
+  "seed": "L1595",
+  "text": "Before you pay a company you found through review sites, open its own website yourself.\n\nReview pages can keep describing a business as open and active long after its website has become an empty placeholder page.",
+  "means": "Listings online can be stale, so visit a supplier's real site before spending money to confirm they still actually trade.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a16",
+  "lane": "lesson",
+  "seed": "L0567",
+  "text": "In your customer records, never let one blank box mean both that nobody asked and that the answer was no.\n\nAdd a separate choice for not checked yet, so whoever reads it later knows whether to ask.",
+  "means": "An empty field hides whether information is missing or negative, so give unchecked items their own label and nobody guesses.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a17",
+  "lane": "lesson",
+  "seed": "N25112519",
+  "text": "Say the full date back whenever a customer books for next Wednesday, because next can mean this coming week or the one after.\n\nAn AI phone assistant needs the same rule, because it will choose one meaning on its own.",
+  "means": "Vague day names cause wrong bookings, so confirm the exact calendar date with every caller, whether a person or software takes it.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a18",
+  "lane": "builder",
+  "seed": "L0975",
+  "text": "When someone asks your app for a record that belongs to another user, answer 404 not found rather than 403 forbidden.\n\nA 403 tells them the record exists, and that alone is information they should not have.",
+  "means": "Refusing access still leaks that something is there, so reply as if it does not exist when a user requests data that is not theirs.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a19",
+  "lane": "builder",
+  "seed": "L1259",
+  "text": "An automation that answers a cancellation by creating or cancelling another appointment can set itself off again and loop forever.\n\nCancelling the record fires the cancellation webhook once more, so add a guard that skips appointments with dates already in the past.",
+  "means": "A booking flow can trigger itself endlessly, so make it ignore old appointments and stop the repeat before it runs away.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a20",
+  "lane": "builder",
+  "seed": "N25112517",
+  "text": "A scheduled job that downloads the same tool fresh on every run can start being refused for making too many requests.\n\nPin the exact version of the tool and cache the download, so each run reuses the copy it already has.",
+  "means": "Repeated downloads get blocked, so lock a fixed release and keep a saved copy that later runs use instead of fetching again.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a21",
+  "lane": "builder",
+  "seed": "N25112513",
+  "text": "When you summarise an AI agent's log by keeping only its text, you can lose every error it hit.\n\nTool output, errors included, is stored in separate result messages, so check where errors live before you write the summary.",
+  "means": "Failures may sit outside the plain text of a log, so find where they are kept before trimming it down or you will miss them.",
+  "at": "2026-11-26T04:44:10Z"
+ },
+ {
+  "id": "w261126a22",
+  "lane": "buyers",
+  "seed": "R26112602",
+  "text": "21 of 190 public reviews of automation sellers came from buyers hiring the same seller again, and every one of those 21 scored 4.7 or higher out of 5.\n\nWhen you choose a builder, ask how many of their customers have come back for a second job.",
+  "means": "Returning buyers rate sellers very highly, so ask a builder about repeat customers as a sign they deliver what people want.",
+  "at": "2026-11-26T04:44:10Z"
  }
 ]
