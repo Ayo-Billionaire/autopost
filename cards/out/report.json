@@ -106,5 +106,65 @@
   "margin": 224,
   "text": "Charge a deposit before you start any job, even for customers you like.\n\nA deposit shows you who is serious, and it means a cancelled job still covers the time you held for it.",
   "at": 1795673820
+ },
+ {
+  "id": "w261125b01",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 76,
+  "font": true,
+  "photo": 432,
+  "margin": 154,
+  "text": "The sales call you keep moving to tomorrow is usually the one that would bring in money this week.\n\nPick up the phone before you open your inbox, because your inbox will fill the whole morning if you let it.",
+  "at": 1795682539
+ },
+ {
+  "id": "w261125b02",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 72,
+  "font": true,
+  "photo": 432,
+  "margin": 134,
+  "text": "Doing a job the wrong way every week does not make you better at it, it only makes the mistake harder to break.\n\nWhen customers keep asking the same question after your quote, change the quote today instead of explaining it again.",
+  "at": 1795682539
+ },
+ {
+  "id": "w261125b03",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "Getting ready to launch can quietly become the whole job.\n\nPick a day this week when the first customer can pay you, and let everything still unfinished wait until after that.",
+  "at": 1795682539
+ },
+ {
+  "id": "w261125b04",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "You will not win an argument with a customer about a bill, even when you are right.\n\nAgree on what happens next, whether that is a fix or a refund, and keep the customer instead of the point.",
+  "at": 1795682539
+ },
+ {
+  "id": "w261125b05",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 295,
+  "text": "Chase an old quote every morning before you do anything else, because a quote nobody chases is a no you have accepted for the customer.",
+  "at": 1795682539
  }
 ]
