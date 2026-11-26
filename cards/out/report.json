@@ -46,5 +46,65 @@
   "margin": 271,
   "text": "Tell your client the bad news in the same hour you find it.\n\nThey can plan around a problem, but they cannot plan around silence.",
   "at": 1795670905
+ },
+ {
+  "id": "w261125a04",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "Saying your price out loud feels heavy only until you hear the answer.\n\nSay the number, stop talking and let the customer reply, because filling the silence is how discounts begin.",
+  "at": 1795673820
+ },
+ {
+  "id": "w261125a05",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "At the end of the week, count the invoices you sent and the quotes you chased, not the hours you felt busy.\n\nBusy is a feeling, but a sent invoice is something your bank account can see.",
+  "at": 1795673820
+ },
+ {
+  "id": "w261125a06",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "You do not need a website to sell your first service.\n\nMessage the people who already know your work, tell them what you now offer and what it costs, and let their answers shape everything else.",
+  "at": 1795673820
+ },
+ {
+  "id": "w261125a09",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 224,
+  "text": "Let AI write the first draft of your customer emails, but never let it send one.\n\nThe draft saves you time, and the minute you spend reading it is what keeps your name safe.",
+  "at": 1795673820
+ },
+ {
+  "id": "w261125a10",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 224,
+  "text": "Charge a deposit before you start any job, even for customers you like.\n\nA deposit shows you who is serious, and it means a cancelled job still covers the time you held for it.",
+  "at": 1795673820
  }
 ]
