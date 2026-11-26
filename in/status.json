@@ -2,14 +2,14 @@
 "on": true,
 "pool": {
 "motivation": 22,
-"opinion": 20,
-"lesson": 11,
-"builder": 10,
-"buyers": 2
+"opinion": 21,
+"lesson": 14,
+"builder": 13,
+"buyers": 3
 },
-"pool_total": 65,
-"booked": 13,
-"next": "2026-11-26T09:00:00Z",
+"pool_total": 73,
+"booked": 14,
+"next": "2026-11-26T11:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -115,7 +115,16 @@
 "L0874",
 "L0766",
 "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-"R25112503"
+"R25112503",
+"L0076",
+"L1595",
+"L0567",
+"N25112519",
+"L0975",
+"L1259",
+"N25112517",
+"N25112513",
+"R26112602"
 ],
 "recent": [
 "Before you hire someone for a task, do it yourself for a wee",
@@ -140,15 +149,15 @@
 "Your email software shows you the message you submitted, not",
 "Google Search can now answer from your Google Drive files an",
 "Before you take on a new kind of work, decide which old job ",
+"A run of twenty follow ups does little if eleven of them onl",
+"In n8n, a node you switch off for a safe test still shows as",
 "Saying your price out loud feels heavy only until you hear t",
 "At the end of the week, count the invoices you sent and the ",
 "You do not need a website to sell your first service.\n\nMessa",
 "Let AI write the first draft of your customer emails, but ne",
 "Charge a deposit before you start any job, even for customer",
-"A run of twenty follow ups does little if eleven of them onl",
 "An automatic send that dies half way and returns nothing sho",
 "AI can read your supplier invoices easily, but matching each",
-"In n8n, a node you switch off for a safe test still shows as",
 "OpenAI's Codex 0.172.0 now says which API spend limit you re",
 "The sales call you keep moving to tomorrow is usually the on",
 "Doing a job the wrong way every week does not make you bette",
@@ -204,7 +213,17 @@
 "Pay a new helper for one small trial job before you offer th",
 "Every account your business runs on should be in your name, ",
 "Use AI to read your customer complaints and reviews before y",
-"Send a short written summary after every call with a custome"
+"Send a short written summary after every call with a custome",
+"Give a customer two prices to choose from, not a long menu o",
+"Testing an AI assistant once tells you very little, because ",
+"Before you pay a company you found through review sites, ope",
+"In your customer records, never let one blank box mean both ",
+"Say the full date back whenever a customer books for next We",
+"When someone asks your app for a record that belongs to anot",
+"An automation that answers a cancellation by creating or can",
+"A scheduled job that downloads the same tool fresh on every ",
+"When you summarise an AI agent's log by keeping only its tex",
+"21 of 190 public reviews of automation sellers came from buy"
 ],
-"at": "2026-11-26T07:23:54.141Z"
+"at": "2026-11-26T10:23:52.399Z"
 }
