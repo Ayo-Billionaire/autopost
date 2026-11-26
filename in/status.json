@@ -1,15 +1,15 @@
 {
 "on": true,
 "pool": {
-"motivation": 22,
+"motivation": 29,
 "lesson": 14,
 "builder": 13,
-"opinion": 19,
+"opinion": 23,
 "buyers": 2
 },
-"pool_total": 70,
-"booked": 14,
-"next": "2026-11-26T17:00:00Z",
+"pool_total": 81,
+"booked": 13,
+"next": "2026-11-26T21:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -223,7 +223,19 @@
 "An automation that answers a cancellation by creating or can",
 "A scheduled job that downloads the same tool fresh on every ",
 "When you summarise an AI agent's log by keeping only its tex",
-"21 of 190 public reviews of automation sellers came from buy"
+"21 of 190 public reviews of automation sellers came from buy",
+"Send your offer to the customer you think is too big for you",
+"Being nervous before a sales call does not mean you are bad ",
+"When you break a promise to a customer, make the next promis",
+"When the bank balance is low, the first fix is more offers s",
+"Keep every kind message a customer sends you in one folder.\n",
+"Ask the customer for everything you need before you start a ",
+"Put an hour in your calendar each week to work on your price",
+"When the person you quoted stops replying, find out who else",
+"Never let the person who builds your automation be the only ",
+"Raise prices for new customers first and for existing custom",
+"Do not hire a friend for a job where you would need to criti",
+"Pause new work for any customer whose last invoice is overdu"
 ],
-"at": "2026-11-26T16:23:53.560Z"
+"at": "2026-11-26T19:23:52.987Z"
 }
