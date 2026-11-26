@@ -2,14 +2,14 @@
 "on": true,
 "pool": {
 "motivation": 22,
-"opinion": 16,
+"opinion": 20,
 "lesson": 11,
 "builder": 10,
 "buyers": 2
 },
-"pool_total": 61,
-"booked": 14,
-"next": "2026-11-26T07:00:00Z",
+"pool_total": 65,
+"booked": 13,
+"next": "2026-11-26T09:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -200,7 +200,11 @@
 "When a job you handed over comes back wrong, read the instru",
 "Do not let people who have never sold anything tell you your",
 "Quote a fixed price for the job rather than an hourly rate, ",
-"Do not pay for an automation of a job your team still does i"
+"Do not pay for an automation of a job your team still does i",
+"Pay a new helper for one small trial job before you offer th",
+"Every account your business runs on should be in your name, ",
+"Use AI to read your customer complaints and reviews before y",
+"Send a short written summary after every call with a custome"
 ],
-"at": "2026-11-26T06:47:58.658Z"
+"at": "2026-11-26T07:23:54.141Z"
 }
