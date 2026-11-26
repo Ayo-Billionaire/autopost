@@ -1,0 +1,50 @@
+[
+ {
+  "id": "first-o1",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 178,
+  "text": "Before you hire someone for a task, do it yourself for a week and write down every step.\n\nIf you cannot write the steps down, a new hire cannot follow them, and neither can software.",
+  "at": 1795634627
+ },
+ {
+  "id": "first-m1",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 224,
+  "text": "You do not have to feel like following up.\n\nOpen the message, type two lines and send it, because the customer cannot tell what mood you were in.",
+  "at": 1795670905
+ },
+ {
+  "id": "first-m2",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 271,
+  "text": "Your customers will never see the week you almost closed the business.\n\nThey only see whether you picked up the phone.",
+  "at": 1795670905
+ },
+ {
+  "id": "first-o2",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 271,
+  "text": "Tell your client the bad news in the same hour you find it.\n\nThey can plan around a problem, but they cannot plan around silence.",
+  "at": 1795670905
+ }
+]

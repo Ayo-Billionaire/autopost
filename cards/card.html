@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,500;9..40,700;9..40,800&display=block" rel="stylesheet">
+<style>*{margin:0;padding:0;box-sizing:border-box}body{font-family:"DM Sans",sans-serif}
+.c{width:1080px;height:1350px;padding:0 96px;display:flex;flex-direction:column;justify-content:center;overflow:hidden}
+.who{display:flex;align-items:center;gap:28px;margin-bottom:60px}.who img{width:144px;height:144px;border-radius:50%;border:6px solid #fff;object-fit:cover}
+.name{font-weight:700;font-size:48px;line-height:1.15}.handle{font-weight:500;font-size:38px}
+.t{font-weight:800;line-height:1.16;letter-spacing:-.014em}.t p{text-wrap:balance}.t p+p{margin-top:.6em}</style></head><body>
+<div class="c"><div class="who"><img src="avatar.png"><div><div class="name">Ayo Adesina</div><div class="handle">@ayo_deshina</div></div></div><div class="t"></div></div>
+<script>
+// Brand blues only: ground, text, handle. One size step for every card so a feed of them looks like one set.
+const C=[["#2C3456","#FFFFFF","#BCC4DB"],["#4D6AA7","#FFFFFF","#FFFFFF"],["#BCC4DB","#1C2240","#1C2240"],["#1C2240","#FFFFFF","#BCC4DB"],["#7A93C8","#1C2240","#1C2240"]],SIZES=[80,76,72],MARGIN=110;
+const $=(q)=>document.querySelector(q);
+window.setup=async(p)=>{const[bg,fg,h]=C[p.colour%C.length],c=$(".c"),t=$(".t");c.style.background=bg;c.style.color=fg;$(".handle").style.color=h;
+ t.replaceChildren(...p.text.split("\n\n").map((x)=>{const e=document.createElement("p");e.textContent=x;return e}));
+ await document.fonts.load('800 84px "DM Sans"');await document.fonts.load('700 48px "DM Sans"');await document.fonts.ready;await $(".who img").decode();
+ let why=["not tried"],size=0;for(size of SIZES){t.style.fontSize=size+"px";why=problems();if(!why.length)break}
+ return{ok:!why.length,why,size,font:document.fonts.check('800 84px "DM Sans"'),photo:$(".who img").naturalWidth,margin:Math.round($(".who").getBoundingClientRect().top)}};
+function problems(){const b=[],c=$(".c").getBoundingClientRect(),W=$(".who").getBoundingClientRect(),t=$(".t").getBoundingClientRect();
+ if(W.top-c.top<MARGIN||c.bottom-t.bottom<MARGIN)b.push("too tall");if((t.bottom-W.top)/c.height<.42)b.push("too little on the card");
+ for(const p of document.querySelectorAll(".t p")){const r=document.createRange(),L=[];const n=p.firstChild;let i=0;for(const w of n.data.split(" ")){r.setStart(n,i);r.setEnd(n,i+w.length);i+=w.length+1;const q=r.getBoundingClientRect(),l=L.at(-1);if(q.right>c.right-90)b.push("touches the right edge");if(l&&Math.abs(l.y-q.top)<10){l.n++;l.r=q.right}else L.push({y:q.top,n:1,l:q.left,r:q.right})}
+  const wide=Math.max(...L.map((l)=>l.r-l.l));if(L.length>1&&(L.at(-1).n===1||L.at(-1).r-L.at(-1).l<.28*wide))b.push("lone word on the last line")}
+ return[...new Set(b)]}
+</script></body></html>
