@@ -1,15 +1,15 @@
 {
 "on": true,
 "pool": {
-"motivation": 29,
-"lesson": 14,
-"builder": 13,
-"opinion": 23,
-"buyers": 2
+"motivation": 28,
+"lesson": 18,
+"opinion": 25,
+"builder": 16,
+"buyers": 3
 },
-"pool_total": 81,
-"booked": 13,
-"next": "2026-11-26T21:00:00Z",
+"pool_total": 90,
+"booked": 14,
+"next": "2026-11-26T23:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -124,7 +124,16 @@
 "L1259",
 "N25112517",
 "N25112513",
-"R26112602"
+"R26112602",
+"L0333",
+"L0689",
+"L1762",
+"L1571",
+"L1475",
+"L0108",
+"N25112502",
+"N25112508",
+"R26112604"
 ],
 "recent": [
 "Before you hire someone for a task, do it yourself for a wee",
@@ -156,10 +165,10 @@
 "Out of 190 public reviews of automation sellers, 7 scored be",
 "Saying your price out loud feels heavy only until you hear t",
 "At the end of the week, count the invoices you sent and the ",
+"OpenAI's Codex 0.172.0 now says which API spend limit you re",
 "You do not need a website to sell your first service.\n\nMessa",
 "An automatic send that dies half way and returns nothing sho",
 "AI can read your supplier invoices easily, but matching each",
-"OpenAI's Codex 0.172.0 now says which API spend limit you re",
 "The sales call you keep moving to tomorrow is usually the on",
 "Doing a job the wrong way every week does not make you bette",
 "Getting ready to launch can quietly become the whole job.\n\nP",
@@ -235,7 +244,18 @@
 "Never let the person who builds your automation be the only ",
 "Raise prices for new customers first and for existing custom",
 "Do not hire a friend for a job where you would need to criti",
-"Pause new work for any customer whose last invoice is overdu"
+"Pause new work for any customer whose last invoice is overdu",
+"Tell customers when an AI wrote the reply they are reading.\n",
+"Say no to a job you cannot finish on time, even when you nee",
+"When you want an AI to write more simply, give it a hard lim",
+"Ignore the score out of 10 that an AI gives your writing.\n\nT",
+"Never tell an AI to check a website when it cannot open webs",
+"Before you build a spreadsheet of leads for new software, op",
+"A test script that writes to your database should create its",
+"A new automated test that passes the first time you run it h",
+"Before you pay for a real test of an AI automation, run ever",
+"An AI voice agent named an office the caller never mentioned",
+"7 of 190 public reviews of automation sellers praised the se"
 ],
-"at": "2026-11-26T19:23:52.987Z"
+"at": "2026-11-26T22:23:53.981Z"
 }
