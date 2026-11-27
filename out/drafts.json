@@ -815,5 +815,154 @@
   "text": "7 of 190 public reviews of automation sellers praised the seller for keeping them updated through the project.\n\nWhen you hire a builder, agree a day each week for a short update, so you never have to chase them to learn where things stand.",
   "means": "Buyers value regular progress news, so set a fixed weekly check in with your builder from the start.",
   "at": "2026-11-26T16:43:56Z"
+ },
+ {
+  "id": "w261127a01",
+  "lane": "motivation",
+  "text": "When the same problem comes up in every team meeting, stop saying that something must be done about it.\n\nGive it one owner and one date before the meeting ends, so the next meeting starts with an answer.",
+  "means": "A problem nobody owns never gets fixed, so leave each meeting with a single named person and a deadline for it.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a03",
+  "lane": "motivation",
+  "text": "Before you add a new service, write one sentence saying why a customer would pay for it.\n\nIf you cannot finish that sentence, keep selling what you already sell and come back to the idea later.",
+  "means": "Test a new idea against a plain reason to buy before spending time on it, and drop it if no reason comes.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a04",
+  "lane": "motivation",
+  "text": "Sell the smallest useful version of your service first, such as one session or one fixed job.\n\nA new customer can say yes to that without a big decision, and the bigger work comes after they trust you.",
+  "means": "Lower the first step for new buyers with a small paid starter, then offer larger work once they have seen you deliver.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a06",
+  "lane": "motivation",
+  "text": "When sales drop, look at what you changed in your own business before you blame the market.\n\nA price, an offer or a follow up you stopped sending is something you can fix tomorrow, while the market is not.",
+  "means": "Check your own recent changes first when sales fall, since those are within your control and can be reversed quickly.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a07",
+  "lane": "opinion",
+  "text": "Send your invoice on the day the job is finished, not at the end of the month.\n\nA customer pays fastest while the good work is still fresh in their mind, and a late invoice tells them you are in no hurry either.",
+  "means": "Bill straight away to get paid sooner, because waiting weeks lets the customer forget the value and signals that payment can wait.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a08",
+  "lane": "opinion",
+  "text": "Pay your helpers on time even in a bad month, before you pay yourself.\n\nLate pay costs you their care for your customers, and that is much harder to win back than the money.",
+  "means": "Treat staff wages as the first bill you settle, because unpaid helpers stop looking after customers properly.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a09",
+  "lane": "opinion",
+  "text": "Never offer unlimited changes in a quote.\n\nSay how many rounds of changes are included and what each extra round costs, so the customer thinks before asking instead of changing their mind for free.",
+  "means": "Put a clear limit and a price on revisions so customers decide carefully and your time is protected.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a10",
+  "lane": "opinion",
+  "text": "When you buy an automation, pay for a month of support after it goes live, not only for the build.\n\nThe problems show up once real customers start using it, and that is when you want the builder still answering.",
+  "means": "Budget for help in the weeks after launch, since real use exposes faults that testing missed and you need someone ready to fix them.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a11",
+  "lane": "opinion",
+  "text": "Do not let AI write your replies to customer reviews.\n\nA short answer in your own words that mentions what the customer bought shows every reader that a real person runs the business.",
+  "means": "Answer reviews personally and specifically, because readers trust a business more when the replies clearly come from the owner.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a12",
+  "lane": "lesson",
+  "seed": "L1100",
+  "text": "When you ask AI to help you sell, tell it which material to trust first, such as your own training notes and then your own documents.\n\nAlso warn it that its default sales advice may not suit your customers, so it follows your way rather than its habits.",
+  "means": "Give the assistant an order of trusted material and tell it to distrust its generic selling style, so its advice fits your market.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a13",
+  "lane": "lesson",
+  "seed": "L0527",
+  "text": "When AI writes text that goes straight to your customers, read one finished example where customers will see it.\n\nAI sometimes hands back a list as one block of text, and a stray bracket can end up published under your name.",
+  "means": "Look at real published output, not just the setup, because formatting slips from AI can reach the public unnoticed.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a14",
+  "lane": "lesson",
+  "seed": "L1295",
+  "text": "Before you start a campaign made with an AI image or video tool, pick the exact model version and keep it fixed.\n\nA tool that moves to a newer version halfway through can change the look of your campaign between the first week and the second.",
+  "means": "Lock the model version at the start so every image or video in one campaign keeps the same style.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a15",
+  "lane": "lesson",
+  "seed": "L0564",
+  "text": "Advice an AI gave you about a customer goes out of date the moment that customer replies.\n\nAsk again with the new reply included before you act, because the old answer was right only for the conversation it saw.",
+  "means": "Refresh any AI suggestion after new messages arrive, since it cannot know about replies that came later.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a16",
+  "lane": "builder",
+  "seed": "L0329",
+  "text": "When your automation posts to WordPress, open the site and look for the post before you call it working.\n\nA post id coming back only proves the post was saved, and it may be sitting as a draft that nobody can see.",
+  "means": "Confirm the article is actually public on the website, because a returned id does not show whether it was published.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a17",
+  "lane": "builder",
+  "seed": "L1020",
+  "text": "When an AI image or video API gives you a link to your file, copy the file to storage you control straight away.\n\nLinks like that can expire, and a workflow that reuses one the next day breaks without telling you.",
+  "means": "Save generated media somewhere permanent at once, since temporary links stop working and quietly break later runs.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a18",
+  "lane": "builder",
+  "seed": "L0089",
+  "text": "If your web app uses single key shortcuts, make the handler ignore keys pressed with Cmd or Ctrl.\n\nOtherwise someone copying text with Cmd+C also fires your C shortcut, and only a test in a real browser shows it.",
+  "means": "Shortcut code must check for held modifier keys, and you should test it in an actual browser to catch the clash.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a19",
+  "lane": "builder",
+  "seed": "L1825",
+  "text": "A filter that blanks every message containing an angle bracket will also wipe out a patient writing that their pain is above 7.\n\nReject text shaped like a code tag instead of every less than or greater than sign.",
+  "means": "Block only input that looks like markup, so normal messages using comparison signs are kept intact.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a20",
+  "lane": "buyers",
+  "seed": "R26112601",
+  "text": "Of 11 public reviews that gave an automation seller 4 or lower out of 5, 4 described back and forth or a seller who missed what the buyer asked for.\n\nSo write down what you want before the first call and ask the builder to repeat it back.",
+  "means": "Many unhappy buyers were misunderstood, so put your needs in writing and have the builder confirm them in their own words.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a21",
+  "lane": "motivation",
+  "text": "Write every promise you make to a customer into your calendar the moment you make it, even a small promise to call back on Friday.\n\nSmall promises are the ones that slip, and customers remember them longer than the big ones.",
+  "means": "Capture each commitment right away, because forgotten minor promises damage trust more than people expect.",
+  "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127a22",
+  "lane": "opinion",
+  "text": "Hand your bookkeeping to someone else long before you hand over replying to customers.\n\nA mistake in the books can be put right quietly, but a careless reply to a customer is seen at once and remembered.",
+  "means": "Delegate back office work first and keep customer contact yourself longer, since errors there are public and hard to undo.",
+  "at": "2026-11-27T04:43:48Z"
  }
 ]
