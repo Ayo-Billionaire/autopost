@@ -250,5 +250,17 @@
   "margin": 178,
   "text": "Give a new hire the finished example first and the written instructions second.\n\nPeople copy what they can see far better than they follow what they are told.",
   "at": 1795758132
+ },
+ {
+  "id": "w261125a03",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "Before you take on a new kind of work, decide which old job you will stop doing, because your week will not stretch to fit both.\n\nWrite the stopped job down so you do not slide back into it.",
+  "at": 1795779716
  }
 ]
