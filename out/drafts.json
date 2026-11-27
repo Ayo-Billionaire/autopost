@@ -964,5 +964,128 @@
   "text": "Hand your bookkeeping to someone else long before you hand over replying to customers.\n\nA mistake in the books can be put right quietly, but a careless reply to a customer is seen at once and remembered.",
   "means": "Delegate back office work first and keep customer contact yourself longer, since errors there are public and hard to undo.",
   "at": "2026-11-27T04:43:48Z"
+ },
+ {
+  "id": "w261127b01",
+  "lane": "opinion",
+  "text": "Put an end date on every quote you send.\n\nA quote with no end date lets a customer accept your old price months later, after your own costs have gone up.",
+  "means": "Quotes should expire so a customer cannot hold you to an outdated price once your costs rise, so add a validity date today.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b02",
+  "lane": "opinion",
+  "text": "Keep a new helper away from your customers for their first week and have them read every message you send instead.\n\nThey learn how you speak to customers before any customer hears how they speak.",
+  "means": "Let new staff study your real conversations before they talk to anyone, so their tone matches yours from their first customer onwards.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b03",
+  "lane": "opinion",
+  "text": "Do not buy an AI chatbot for your website until you have written answers to the questions customers ask you most.\n\nA chatbot with nothing written to work from will guess, and every guess goes out under your business name.",
+  "means": "Write your common answers down before paying for a website bot, because without them it improvises and you carry the blame.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b04",
+  "lane": "opinion",
+  "text": "Pay to automate a job away completely before you pay to make a job faster.\n\nA faster job still needs someone to remember to start it, but a job that runs by itself frees that person for good.",
+  "means": "When choosing what to spend automation money on first, pick the task that can disappear entirely rather than one that only speeds up.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b05",
+  "lane": "opinion",
+  "text": "Record a voice note after each sales call and let AI turn it into the written quote, rather than asking AI to write a quote from nothing.\n\nThe quote then matches what you and the customer actually agreed.",
+  "means": "Feed AI your own spoken summary of the call so the quote it drafts reflects the real conversation instead of generic guesses.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b06",
+  "lane": "lesson",
+  "seed": "L0054",
+  "text": "When you put an example sentence inside your instructions to an AI, it may copy that example into the finished text as if it were true.\n\nIt slipped into 4 of 58 letters as a false claim about the writer, so only use examples that would do no harm if copied.",
+  "means": "Sample lines in prompts can end up in real output as facts, so choose samples that are harmless if they appear word for word.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b07",
+  "lane": "lesson",
+  "seed": "L1012",
+  "text": "Have someone who knows the subject check AI written training material one claim at a time.\n\nA check of AI written lessons on sound mixing found 10 clear errors in about 120 claims that could be tested, including a volume target that left no room for peaks.",
+  "means": "Course or training content drafted by AI contains real mistakes, so an expert should verify each statement before customers learn from it.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b08",
+  "lane": "lesson",
+  "seed": "L0018",
+  "text": "Checking that the numbers in a report add up does not prove the report is right.\n\nOne audit checked 192 figures and 31 claims, but a false sentence got through because nobody read what the quoted standard actually covers.",
+  "means": "Correct sums can hide a wrong statement, so when a report relies on a rule or standard, read the part saying where it applies.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b09",
+  "lane": "lesson",
+  "seed": "L0551",
+  "text": "Give each AI helper only the instructions its one job needs.\n\nOne helper asked only to review a message found a general rule elsewhere in its instructions and followed that rule instead of doing the review.",
+  "means": "Extra rules distract an AI assistant from its task, so trim what you hand it down to what that single task requires.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b10",
+  "lane": "builder",
+  "seed": "L1147",
+  "text": "Shortening a voice agent's prompt by 25% will not make it answer noticeably faster.\n\nIn a controlled test the replies took about 2,890 milliseconds, and the long and short prompts differed by only 100, which is within normal variation.",
+  "means": "Prompt length barely affects voice agent speed, so cut prompts for easier upkeep and look elsewhere when callers hear delays.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b11",
+  "lane": "builder",
+  "seed": "N25112509",
+  "text": "On a phone menu, make the language key work however many times a caller presses it.\n\nOne switch worked for a single press but failed when a caller pressed the same key six times, because the rule only matched one or two presses.",
+  "means": "Callers press keys repeatedly when impatient, so menu logic should accept repeated presses of the same digit as one choice.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b12",
+  "lane": "builder",
+  "seed": "L0801",
+  "text": "Wait before you test a fresh deploy against a real booking system, because the old code can still answer for a while.\n\nA check sent straight after a Cloudflare wrangler deploy reached the old version and made a real appointment it should have refused.",
+  "means": "Right after releasing new code, the previous version may still handle requests, so confirm which version replies before touching live bookings.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b13",
+  "lane": "builder",
+  "seed": "N25112516",
+  "text": "Two queued GitHub Actions runs that both save their results can clash.\n\nThe second run starts from the commit it was queued at, without the first run's changes, so its save fails unless only one run goes at a time.",
+  "means": "Workflows that write back to a repository need to run one after another, otherwise a later queued run works from stale files and breaks.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b14",
+  "lane": "news",
+  "url": "https://help.make.com/openai-reusable-prompts-deprecation-salesforce-connection-security-changes-and-more-app-updates",
+  "text": "Make.com scenarios that use OpenAI reusable prompts stop running after the 30th of November 2026, because OpenAI is shutting that feature down.\n\nIn the Generate a response module, switch Prompt Type to Text prompt and paste in your prompt text.",
+  "means": "Anyone with an OpenAI step relying on saved prompts must move the wording into the module itself this week or that scenario halts.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b15",
+  "lane": "news",
+  "url": "https://help.make.com/introducing-the-make-plugin-for-claude",
+  "text": "Make.com now has a plugin for Claude, so you describe a regular job in plain words and it builds the scenario, links the apps and runs it.\n\nIt works on every Make.com plan, in Claude Chat, Cowork and Claude Code.",
+  "means": "Claude users can now create, schedule and monitor automations by simply describing them, with everything kept inside their existing automation account.",
+  "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261127b16",
+  "lane": "buyers",
+  "seed": "R26112605",
+  "text": "Across 190 reviews that buyers left for automation builders, 5 praised the builder for explaining the work clearly, and 2 of those 5 knew little about technology.\n\nSo before you hire one, ask them to describe one part of your current setup in plain words.",
+  "means": "Clear explanation is rare and valued by buyers, so test a builder's ability to explain simply before agreeing to work together.",
+  "at": "2026-11-27T16:45:00Z"
  }
 ]
