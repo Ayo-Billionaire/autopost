@@ -2,14 +2,14 @@
 "on": true,
 "pool": {
 "motivation": 32,
-"opinion": 28,
+"opinion": 27,
 "lesson": 20,
 "builder": 19,
-"buyers": 4
+"buyers": 3
 },
-"pool_total": 103,
-"booked": 13,
-"next": "2026-11-27T15:00:00Z",
+"pool_total": 101,
+"booked": 14,
+"next": "2026-11-27T17:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -182,6 +182,8 @@
 "AI can read your supplier invoices easily, but matching each",
 "When you send email through Resend, store the message id it ",
 "Let go of the customer who disputes every invoice, because t",
+"Stop giving discounts to win a first job.\n\nThe customer who ",
+"Only 5 of 190 public reviews of automation sellers praised t",
 "The sales call you keep moving to tomorrow is usually the on",
 "Doing a job the wrong way every week does not make you bette",
 "Getting ready to launch can quietly become the whole job.\n\nP",
@@ -189,7 +191,6 @@
 "Chase an old quote every morning before you do anything else",
 "There will never be a quiet month to raise your prices.\n\nTel",
 "Nobody has to give you permission to charge for the help peo",
-"Stop giving discounts to win a first job.\n\nThe customer who ",
 "Write down how a task is done only after someone else has do",
 "Start with a boring automation, like sending the invoice the",
 "Give customers one way to reach you and answer it well, rath",
@@ -219,7 +220,6 @@
 "Telling Claude Opus to avoid a generic look only swaps one d",
 "An expired GitHub token can be worse than no token, because ",
 "When an AI coding agent tells you its git mistake cannot be ",
-"Only 5 of 190 public reviews of automation sellers praised t",
 "Read the first quote you ever sent a customer, because it sh",
 "One big customer who pays most of your bills feels safe righ",
 "Nobody will tell people about your best work while you keep ",
@@ -286,5 +286,5 @@
 "Write every promise you make to a customer into your calenda",
 "Hand your bookkeeping to someone else long before you hand o"
 ],
-"at": "2026-11-27T13:23:55.035Z"
+"at": "2026-11-27T16:23:52.899Z"
 }
