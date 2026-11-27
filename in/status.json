@@ -3,13 +3,13 @@
 "pool": {
 "motivation": 28,
 "lesson": 18,
-"opinion": 25,
+"opinion": 24,
 "builder": 16,
 "buyers": 3
 },
-"pool_total": 90,
-"booked": 14,
-"next": "2026-11-26T23:00:00Z",
+"pool_total": 89,
+"booked": 13,
+"next": "2026-11-27T03:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -166,6 +166,7 @@
 "Saying your price out loud feels heavy only until you hear t",
 "At the end of the week, count the invoices you sent and the ",
 "OpenAI's Codex 0.172.0 now says which API spend limit you re",
+"Judge an automation quote by how much work it takes off your",
 "You do not need a website to sell your first service.\n\nMessa",
 "An automatic send that dies half way and returns nothing sho",
 "AI can read your supplier invoices easily, but matching each",
@@ -176,7 +177,6 @@
 "Chase an old quote every morning before you do anything else",
 "There will never be a quiet month to raise your prices.\n\nTel",
 "Nobody has to give you permission to charge for the help peo",
-"Judge an automation quote by how much work it takes off your",
 "Hire your first helper for the job you do worst, not the job",
 "Let go of the customer who disputes every invoice, because t",
 "Stop giving discounts to win a first job.\n\nThe customer who ",
@@ -257,5 +257,5 @@
 "An AI voice agent named an office the caller never mentioned",
 "7 of 190 public reviews of automation sellers praised the se"
 ],
-"at": "2026-11-26T22:23:53.981Z"
+"at": "2026-11-27T01:23:52.745Z"
 }
