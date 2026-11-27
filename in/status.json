@@ -1,15 +1,15 @@
 {
 "on": true,
 "pool": {
-"motivation": 28,
-"lesson": 17,
-"opinion": 23,
+"lesson": 20,
+"motivation": 31,
+"opinion": 28,
 "builder": 16,
 "buyers": 3
 },
-"pool_total": 87,
-"booked": 14,
-"next": "2026-11-27T05:00:00Z",
+"pool_total": 98,
+"booked": 13,
+"next": "2026-11-27T09:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -133,7 +133,10 @@
 "L0108",
 "N25112502",
 "N25112508",
-"R26112604"
+"R26112604",
+"L1100",
+"L0527",
+"L1295"
 ],
 "recent": [
 "Before you hire someone for a task, do it yourself for a wee",
@@ -255,7 +258,19 @@
 "A new automated test that passes the first time you run it h",
 "Before you pay for a real test of an AI automation, run ever",
 "An AI voice agent named an office the caller never mentioned",
-"7 of 190 public reviews of automation sellers praised the se"
+"7 of 190 public reviews of automation sellers praised the se",
+"When the same problem comes up in every team meeting, stop s",
+"Before you add a new service, write one sentence saying why ",
+"Sell the smallest useful version of your service first, such",
+"When sales drop, look at what you changed in your own busine",
+"Send your invoice on the day the job is finished, not at the",
+"Pay your helpers on time even in a bad month, before you pay",
+"Never offer unlimited changes in a quote.\n\nSay how many roun",
+"When you buy an automation, pay for a month of support after",
+"Do not let AI write your replies to customer reviews.\n\nA sho",
+"When you ask AI to help you sell, tell it which material to ",
+"When AI writes text that goes straight to your customers, re",
+"Before you start a campaign made with an AI image or video t"
 ],
-"at": "2026-11-27T04:23:53.886Z"
+"at": "2026-11-27T07:23:51.955Z"
 }
