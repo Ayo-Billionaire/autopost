@@ -226,5 +226,17 @@
   "margin": 178,
   "text": "Hire your first helper for the job you do worst, not the job you hate most.\n\nThe job you hate still gets done in the end, but the job you do badly is quietly costing you customers.",
   "at": 1795725735
+ },
+ {
+  "id": "w261125a02",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 178,
+  "text": "When a customer says no, they are saying no to this month, not to you for good.\n\nPut a date in your calendar to ask again, and bring something new when you do.",
+  "at": 1795747334
  }
 ]
