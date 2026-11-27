@@ -1,5 +1,21 @@
 [
 {
+"url": "https://help.make.com/openai-reusable-prompts-deprecation-salesforce-connection-security-changes-and-more-app-updates",
+"by": "Make.com",
+"title": "OpenAI reusable prompts deprecation, Salesforce connection security changes, and more app updates",
+"at": "2026-11-27T13:14Z",
+"kind": "news",
+"text": "OpenAI reusable prompts deprecation, Salesforce connection security changes, and more app updates. Release notes 2026 OpenAI reusable prompts deprecation, Salesforce connection security changes, and more app updates 6 min Here's a quick look at our app updates this week. OpenAI: Reusable prompts deprecation and new GPT-6.2 models Reusable prompts in the OpenAI app stop working on November 30, 2026. The app also now supports the GPT-6.2 Astra and GPT-6.2 Sol models. Reusable prompts deprecation Update your scenarios before November 30, 2026. After this date, OpenAI shuts down its reusable prompts API ( v1/prompts ), and scenarios that use it stop running. This change affects the Generate a response module when Prompt Type is set to Reusable prompt . These options are now labeled Reusable prompt (deprecated) . Existing scenarios continue to run normally until the deadline. To keep your scenarios running: Identify scenarios that use the Generate a response module with Prompt Type set to Reusable prompt (deprecated) . In your OpenAI account, copy the text from the reusable prompt you use. In your scenario, edit the module and change Prompt Type to Text prompt or Advanced input . Paste the prompt text directly into the module's configuration. For more information, see OpenAI documentation and OpenAI's guide to migrating from prompt objects . Support for GPT-6.2 Astra and GPT-6.2 Sol These modules now support the GPT-6.2 Astra and GPT-6.2 Sol models: Simple text prompt : You can select the new models if you're on a paid Make plan. Generate a completion and Analyze images : Make automatically omits the n parameter (number of choices to generate) when you use these models to ensure compatibility. Create a model response : The help text clarifies model-specific behaviors. Salesf"
+},
+{
+"url": "https://help.make.com/introducing-the-make-plugin-for-claude",
+"by": "Make.com",
+"title": "Introducing the Make plugin for Claude",
+"at": "2026-11-27T11:24Z",
+"kind": "news",
+"text": "Introducing the Make plugin for Claude. Release notes 2026 Introducing the Make plugin for Claude 2 min You can now use the Make plugin for Claude to turn your recurring work in Claude into Make scenarios. Describe the work in plain language, then create, schedule, run, and manage it through your existing Make account. Key benefits Create scenarios: Describe a workflow in Claude, and Make creates the scenario, connects to the required apps, and runs it. Schedule and run scenarios: Set scenarios to run on a schedule, or run them on demand from Claude. Review scenario activity: Search scenarios by name, folder, or status. View scenario run history and past results in interactive Claude widgets. Manage everything in Make: The plugin uses your existing Make account permissions. Scenarios, connections, and stored data stay in your Make organization, where your teams can review and manage them. Install the Make plugin for Claude To install the plugin, open the Make listing in the Anthropic Claude plugin directory and add the plugin to Claude. Availability The plugin is available for Claude users on all Make plans. Use it in Claude Chat, Claude Cowork, and Claude Code. Learn more To see what the community is saying, see Make plugin for Claude feature spotlight . Updated 27 Nov 2026 PREVIOUS OpenAI reusable prompts deprecation, Salesforce connection security changes, and more app updates NEXT Introducing Make Endpoints Docs powered by Archbee"
+},
+{
 "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
 "by": "Google DeepMind",
 "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
