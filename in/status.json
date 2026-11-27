@@ -1,15 +1,15 @@
 {
 "on": true,
 "pool": {
-"motivation": 32,
-"opinion": 27,
-"lesson": 20,
-"builder": 19,
+"motivation": 31,
+"opinion": 32,
+"lesson": 24,
+"builder": 22,
 "buyers": 3
 },
-"pool_total": 101,
-"booked": 14,
-"next": "2026-11-27T17:00:00Z",
+"pool_total": 112,
+"booked": 13,
+"next": "2026-11-27T21:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -142,7 +142,14 @@
 "L1020",
 "L0089",
 "L1825",
-"R26112601"
+"R26112601",
+"L0054",
+"L1012",
+"L0018",
+"L0551",
+"L1147",
+"N25112509",
+"L0801"
 ],
 "recent": [
 "Before you hire someone for a task, do it yourself for a wee",
@@ -284,7 +291,19 @@
 "A filter that blanks every message containing an angle brack",
 "Of 11 public reviews that gave an automation seller 4 or low",
 "Write every promise you make to a customer into your calenda",
-"Hand your bookkeeping to someone else long before you hand o"
+"Hand your bookkeeping to someone else long before you hand o",
+"Put an end date on every quote you send.\n\nA quote with no en",
+"Keep a new helper away from your customers for their first w",
+"Do not buy an AI chatbot for your website until you have wri",
+"Pay to automate a job away completely before you pay to make",
+"Record a voice note after each sales call and let AI turn it",
+"When you put an example sentence inside your instructions to",
+"Have someone who knows the subject check AI written training",
+"Checking that the numbers in a report add up does not prove ",
+"Give each AI helper only the instructions its one job needs.",
+"Shortening a voice agent's prompt by 25% will not make it an",
+"On a phone menu, make the language key work however many tim",
+"Wait before you test a fresh deploy against a real booking s"
 ],
-"at": "2026-11-27T16:23:52.899Z"
+"at": "2026-11-27T19:23:55.106Z"
 }
