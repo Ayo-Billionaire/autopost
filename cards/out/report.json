@@ -238,5 +238,17 @@
   "margin": 178,
   "text": "When a customer says no, they are saying no to this month, not to you for good.\n\nPut a date in your calendar to ask again, and bring something new when you do.",
   "at": 1795747334
+ },
+ {
+  "id": "w261125a08",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 178,
+  "text": "Give a new hire the finished example first and the written instructions second.\n\nPeople copy what they can see far better than they follow what they are told.",
+  "at": 1795758132
  }
 ]
