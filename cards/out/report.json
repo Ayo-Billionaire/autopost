@@ -262,5 +262,17 @@
   "margin": 131,
   "text": "Before you take on a new kind of work, decide which old job you will stop doing, because your week will not stretch to fit both.\n\nWrite the stopped job down so you do not slide back into it.",
   "at": 1795779716
+ },
+ {
+  "id": "w261125b12",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "Write down how a task is done only after someone else has done it while you watched.\n\nThey will trip over the steps you forgot you take, and those are the steps your written guide would have missed.",
+  "at": 1795812133
  }
 ]
