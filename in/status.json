@@ -1,15 +1,15 @@
 {
 "on": true,
 "pool": {
+"motivation": 32,
+"opinion": 29,
 "lesson": 20,
-"motivation": 31,
-"opinion": 28,
-"builder": 16,
-"buyers": 3
+"builder": 19,
+"buyers": 4
 },
-"pool_total": 98,
-"booked": 13,
-"next": "2026-11-27T09:00:00Z",
+"pool_total": 104,
+"booked": 14,
+"next": "2026-11-27T11:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -136,7 +136,13 @@
 "R26112604",
 "L1100",
 "L0527",
-"L1295"
+"L1295",
+"L0564",
+"L0329",
+"L1020",
+"L0089",
+"L1825",
+"R26112601"
 ],
 "recent": [
 "Before you hire someone for a task, do it yourself for a wee",
@@ -174,6 +180,7 @@
 "Hire your first helper for the job you do worst, not the job",
 "You do not need a website to sell your first service.\n\nMessa",
 "AI can read your supplier invoices easily, but matching each",
+"When you send email through Resend, store the message id it ",
 "The sales call you keep moving to tomorrow is usually the on",
 "Doing a job the wrong way every week does not make you bette",
 "Getting ready to launch can quietly become the whole job.\n\nP",
@@ -190,7 +197,6 @@
 "In a long set of instructions for an AI assistant, an old ru",
 "Never let AI describe your business as the largest or the mo",
 "Blog lists of free business tools often disagree with the pr",
-"When you send email through Resend, store the message id it ",
 "When an automation writes rows to Google Sheets, add the row",
 "When an AI voice agent must open every call with the same wo",
 "n8n 2.49.6 makes the new expression engine give the same res",
@@ -270,7 +276,15 @@
 "Do not let AI write your replies to customer reviews.\n\nA sho",
 "When you ask AI to help you sell, tell it which material to ",
 "When AI writes text that goes straight to your customers, re",
-"Before you start a campaign made with an AI image or video t"
+"Before you start a campaign made with an AI image or video t",
+"Advice an AI gave you about a customer goes out of date the ",
+"When your automation posts to WordPress, open the site and l",
+"When an AI image or video API gives you a link to your file,",
+"If your web app uses single key shortcuts, make the handler ",
+"A filter that blanks every message containing an angle brack",
+"Of 11 public reviews that gave an automation seller 4 or low",
+"Write every promise you make to a customer into your calenda",
+"Hand your bookkeeping to someone else long before you hand o"
 ],
-"at": "2026-11-27T07:23:51.955Z"
+"at": "2026-11-27T10:23:52.696Z"
 }
