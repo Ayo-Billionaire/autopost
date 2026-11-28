@@ -3,14 +3,14 @@
 "pool": {
 "motivation": 29,
 "opinion": 31,
-"lesson": 27,
-"builder": 26,
+"lesson": 26,
+"builder": 25,
 "buyers": 5,
 "news": 1
 },
-"pool_total": 119,
-"booked": 13,
-"next": "2026-11-28T09:00:00Z",
+"pool_total": 117,
+"booked": 14,
+"next": "2026-11-28T11:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -212,16 +212,16 @@
 "A booking automation is only proven when it has made a real ",
 "Make.com scenarios that use OpenAI reusable prompts stop run",
 "Getting ready to launch can quietly become the whole job.\n\nP",
+"In a long set of instructions for an AI assistant, an old ru",
+"When an AI voice agent must open every call with the same wo",
 "You will not win an argument with a customer about a bill, e",
 "Chase an old quote every morning before you do anything else",
 "There will never be a quiet month to raise your prices.\n\nTel",
 "Nobody has to give you permission to charge for the help peo",
 "Start with a boring automation, like sending the invoice the",
 "Give customers one way to reach you and answer it well, rath",
-"In a long set of instructions for an AI assistant, an old ru",
 "Never let AI describe your business as the largest or the mo",
 "Blog lists of free business tools often disagree with the pr",
-"When an AI voice agent must open every call with the same wo",
 "n8n 2.49.6 makes the new expression engine give the same res",
 "Answer an angry customer with a phone call rather than a lon",
 "If a customer needs several meetings before they buy, turn u",
@@ -332,5 +332,5 @@
 "A checker that reports nothing wrong may simply be skipping ",
 "In 13 of 190 public reviews of automation builders, the buye"
 ],
-"at": "2026-11-28T07:23:51.329Z"
+"at": "2026-11-28T10:23:52.908Z"
 }
