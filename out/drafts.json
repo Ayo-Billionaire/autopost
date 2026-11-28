@@ -1087,5 +1087,77 @@
   "text": "Across 190 reviews that buyers left for automation builders, 5 praised the builder for explaining the work clearly, and 2 of those 5 knew little about technology.\n\nSo before you hire one, ask them to describe one part of your current setup in plain words.",
   "means": "Clear explanation is rare and valued by buyers, so test a builder's ability to explain simply before agreeing to work together.",
   "at": "2026-11-27T16:45:00Z"
+ },
+ {
+  "id": "w261128a01",
+  "lane": "lesson",
+  "seed": "L0846",
+  "text": "Open your backup and check the date of the newest copy, rather than trusting a note that says it is working.\n\nOne note like that was 5 days out of date, and a real check found 363 changed files and a whole folder that had never been backed up.",
+  "means": "A written reminder that backups run can go stale, so look at the latest saved copy and its date yourself before relying on it.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a02",
+  "lane": "lesson",
+  "seed": "L0050",
+  "text": "When you ban one bad habit in your AI assistant's instructions, watch for it swinging to the opposite fault.\n\nAn assistant told to stop asking interview questions turned quiet and passive, so try a few real conversations after every new rule you add.",
+  "means": "Removing one unwanted behaviour can push an assistant into a different problem, so test real chats each time you change its rules.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a03",
+  "lane": "lesson",
+  "seed": "L1055",
+  "text": "A change that lifts one score for your AI writing can quietly drop another.\n\nOne rewrite of the instructions raised an accuracy score from 0.76 to 0.91, but its win rate in side by side comparisons fell from 0.45 to 0.31, so it was not kept.",
+  "means": "Judge any improvement against all the measures you care about, because gains on one number can hide losses on a different one.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a04",
+  "lane": "lesson",
+  "seed": "L0728",
+  "text": "Telling an AI assistant never to ask and always to draft makes it guess what you meant and fix it later.\n\nThat is also why it changes its answer the moment you ask whether it is sure, so let it ask you a question or two before it writes.",
+  "means": "Allowing the assistant to clarify first gives steadier answers than forcing it to produce something straight away and correct itself afterwards.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a05",
+  "lane": "builder",
+  "seed": "L0753",
+  "text": "A voice agent that reads dates by spotting words inside the caller's sentence will book the wrong day.\n\nThe word next can match next week, and tomorrow can match day after tomorrow, so match the whole phrase and try the longest phrases first.",
+  "means": "Simple word spotting confuses similar date phrases, so a booking agent should compare complete phrases, longest first, to avoid wrong appointments.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a06",
+  "lane": "builder",
+  "seed": "N25112506",
+  "text": "A daily job that rereads its whole database to avoid duplicates will burn through an API that limits your calls.\n\nKeep its own list of records it has already seen and reread the full table once a week, which brought one job down to about 15 calls a run.",
+  "means": "Store what a scheduled job has handled so it skips repeats cheaply, and do the expensive full comparison only occasionally.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a07",
+  "lane": "builder",
+  "seed": "L1304",
+  "text": "Copying the example from a software company's own documentation word for word does not mean the call will work.\n\nOne example left a field empty that the same service then rejected as required, so send each call yourself before you build anything on top of it.",
+  "means": "Official sample requests can be wrong, so try every request by hand and confirm it succeeds before wiring it into a workflow.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a08",
+  "lane": "builder",
+  "seed": "N25112518",
+  "text": "A checker that reports nothing wrong may simply be skipping things.\n\nOne only matched folder names that began with exactly two digits, so it never looked at any folder from 100 upwards, and you should make yours print how many items it checked.",
+  "means": "A clean result means little unless you know how much was examined, so have every checking script report its count.",
+  "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128a09",
+  "lane": "buyers",
+  "seed": "R26112603",
+  "text": "In 13 of 190 public reviews of automation builders, the buyer said the builder went beyond the order.\n\nThat meant help outside the agreed work or more hours than were billed, so when you compare builders, look for moments like these in what their buyers wrote.",
+  "means": "Buyers notice extra effort beyond the agreed job, so look for signs of it in reviews when picking someone to build for you.",
+  "at": "2026-11-28T04:43:46Z"
  }
 ]
