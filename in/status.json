@@ -2,15 +2,15 @@
 "on": true,
 "pool": {
 "motivation": 30,
-"opinion": 32,
+"opinion": 31,
 "lesson": 24,
 "builder": 22,
 "buyers": 4,
 "news": 2
 },
-"pool_total": 114,
-"booked": 14,
-"next": "2026-11-27T23:00:00Z",
+"pool_total": 113,
+"booked": 13,
+"next": "2026-11-28T03:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -199,12 +199,12 @@
 "The sales call you keep moving to tomorrow is usually the on",
 "Doing a job the wrong way every week does not make you bette",
 "When an automation writes rows to Google Sheets, add the row",
+"Write down how a task is done only after someone else has do",
 "Getting ready to launch can quietly become the whole job.\n\nP",
 "You will not win an argument with a customer about a bill, e",
 "Chase an old quote every morning before you do anything else",
 "There will never be a quiet month to raise your prices.\n\nTel",
 "Nobody has to give you permission to charge for the help peo",
-"Write down how a task is done only after someone else has do",
 "Start with a boring automation, like sending the invoice the",
 "Give customers one way to reach you and answer it well, rath",
 "A booking automation is only proven when it has made a real ",
@@ -314,5 +314,5 @@
 "Make.com now has a plugin for Claude, so you describe a regu",
 "Across 190 reviews that buyers left for automation builders,"
 ],
-"at": "2026-11-27T22:23:55.226Z"
+"at": "2026-11-28T01:23:51.593Z"
 }
