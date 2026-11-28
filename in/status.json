@@ -2,15 +2,15 @@
 "on": true,
 "pool": {
 "motivation": 29,
-"opinion": 31,
+"opinion": 30,
 "lesson": 26,
 "builder": 25,
 "buyers": 5,
 "news": 1
 },
-"pool_total": 117,
-"booked": 14,
-"next": "2026-11-28T11:00:00Z",
+"pool_total": 116,
+"booked": 13,
+"next": "2026-11-28T15:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -214,11 +214,11 @@
 "Getting ready to launch can quietly become the whole job.\n\nP",
 "In a long set of instructions for an AI assistant, an old ru",
 "When an AI voice agent must open every call with the same wo",
+"Start with a boring automation, like sending the invoice the",
 "You will not win an argument with a customer about a bill, e",
 "Chase an old quote every morning before you do anything else",
 "There will never be a quiet month to raise your prices.\n\nTel",
 "Nobody has to give you permission to charge for the help peo",
-"Start with a boring automation, like sending the invoice the",
 "Give customers one way to reach you and answer it well, rath",
 "Never let AI describe your business as the largest or the mo",
 "Blog lists of free business tools often disagree with the pr",
@@ -332,5 +332,5 @@
 "A checker that reports nothing wrong may simply be skipping ",
 "In 13 of 190 public reviews of automation builders, the buye"
 ],
-"at": "2026-11-28T10:23:52.908Z"
+"at": "2026-11-28T13:23:53.123Z"
 }
