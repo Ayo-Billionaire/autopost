@@ -1159,5 +1159,126 @@
   "text": "In 13 of 190 public reviews of automation builders, the buyer said the builder went beyond the order.\n\nThat meant help outside the agreed work or more hours than were billed, so when you compare builders, look for moments like these in what their buyers wrote.",
   "means": "Buyers notice extra effort beyond the agreed job, so look for signs of it in reviews when picking someone to build for you.",
   "at": "2026-11-28T04:43:46Z"
+ },
+ {
+  "id": "w261128b01",
+  "lane": "motivation",
+  "text": "When a helper makes a mistake with a customer, ask them what happened before you say what you think.\n\nYou learn the real cause, and they keep telling you the truth the next time something goes wrong.",
+  "means": "Hear the full story from staff before reacting to an error, so you fix the actual cause and people stay honest with you.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b02",
+  "lane": "motivation",
+  "text": "Not knowing how to write a sales email is a gap you can close with practice, not a reason to wait for a partner who can.\n\nWrite one every day this week and send the best one to a real customer.",
+  "means": "Selling is learnable, so stop waiting for someone else to do it and practise writing offers until one is good enough to send.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b03",
+  "lane": "motivation",
+  "text": "Without referrals, finding customers one message at a time feels slow, but slow still fills a diary.\n\nSend a few personal messages each morning and let the referrals grow out of the people who say yes.",
+  "means": "When the easy route to customers is not open yet, take the slow route daily instead of waiting for word of mouth.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b04",
+  "lane": "motivation",
+  "text": "A slow week is the worst week to stop following up, because the messages you send now are what fill your diary next month.",
+  "means": "Quiet periods tempt you to ease off, but outreach done during them is exactly what prevents the next quiet period.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b05",
+  "lane": "motivation",
+  "text": "Let a customer who leaves for a cheaper rival go politely and thank them for the work.\n\nA kind goodbye makes it easy for them to come back when the cheaper option lets them down.",
+  "means": "Losing a customer on price is not the end, so part on good terms and leave the door open for their return.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b06",
+  "lane": "motivation",
+  "text": "Write your next quote as though you expect a yes, with a start date and the first step already in it.\n\nA quote that sounds like an apology invites the customer to bargain.",
+  "means": "Confident quotes that assume the job is going ahead get fewer haggles than nervous ones, so include dates and next steps.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b07",
+  "lane": "motivation",
+  "text": "You will never feel ready to chase an unpaid invoice, so send the reminder before you think about it for too long.\n\nKeep it short and say the amount and the date it was due.",
+  "means": "Waiting to feel comfortable about chasing money only delays payment, so send a brief, factual reminder straight away.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b08",
+  "lane": "lesson",
+  "seed": "L0039",
+  "text": "Searching a scanned contract for a word and finding nothing proves nothing, because a scan can be a picture of the text rather than text.\n\nTry a word you can see on the first page, and if that also finds nothing, the search had no text to look through.",
+  "means": "An empty search result on a scanned file may mean the file holds images only, so test with a word you know is there.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b09",
+  "lane": "lesson",
+  "seed": "L1511",
+  "text": "Before you spend money on a business idea, ask AI to attack it as well as to plan it.\n\nGive separate chats opposite jobs, such as defending the idea and looking for something cheaper, and when they all say it will not fix your problem, believe them.",
+  "means": "Get AI to argue against your plan, not only for it, and treat agreement between opposing views as a real warning.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b10",
+  "lane": "lesson",
+  "seed": "L0370",
+  "text": "When AI reads a pricing page for you and reports the same limit on every plan, check the page yourself.\n\nIdentical numbers on cheap and expensive plans are the sign it got them wrong, and the real limits may sit in the help pages instead.",
+  "means": "If an AI summary shows every plan with matching limits, it has probably misread them, so confirm on the company's own documents.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b11",
+  "lane": "lesson",
+  "seed": "L0648",
+  "text": "A figure you cannot find in your own download of the data is not proof that somebody made it up.\n\nYour download may only cover part of the account, so check what it includes before you tell anyone their figure is wrong.",
+  "means": "Missing numbers in your export can be a gap in what you can see, so confirm its coverage before accusing anyone of errors.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b12",
+  "lane": "builder",
+  "seed": "L0694",
+  "text": "Check the size of a push to your GitHub backup before you send it, because a folder you forgot to exclude can be swept in.\n\nOne backup grew from 322 MB to 1.2 GB when a copy of somebody else's project was included by mistake.",
+  "means": "Look at how big a backup change is before uploading, since an unnoticed extra folder can bloat the repository badly.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b13",
+  "lane": "builder",
+  "seed": "L0639",
+  "text": "Time each step of a slow AI tool before you swap in a faster model.\n\nIn one app the slow part was building a profile, and starting it the moment text was pasted cut each draft from about 18 seconds to about 12 with the same model.",
+  "means": "Measure where the delay really is before paying for a quicker model, because preparing work early can save more time.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b14",
+  "lane": "builder",
+  "seed": "L1321",
+  "text": "If your web page keeps its desktop grid on a phone, look for a CSS grid column style written inline on the element.\n\nAn inline style beats every screen size class you set, at every width, and the browser gives no warning.",
+  "means": "A layout that never adapts to small screens is often caused by a hardcoded inline column rule overriding responsive classes.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b15",
+  "lane": "builder",
+  "seed": "L1148",
+  "text": "Choose the model for a voice agent by its slowest replies, not its typical ones, because the slow reply is the silence a caller hears.\n\nOne model matched the winner on a typical reply, but once in ten tries it went quiet for far longer than the winner ever did.",
+  "means": "Compare voice models on their worst delays, since occasional long pauses lose callers even when average speed looks fine.",
+  "at": "2026-11-28T16:44:33Z"
+ },
+ {
+  "id": "w261128b16",
+  "lane": "buyers",
+  "seed": "R26112606",
+  "text": "In 3 of 190 public reviews of automation sellers, the buyer said the job was finished or the problem fixed in under 24 hours.\n\nOne was a problem the buyer had been stuck on for weeks, so ask for a quote before you lose another week fighting a broken automation yourself.",
+  "means": "A problem that eats weeks of your own time may take an expert a day, so get outside help priced early.",
+  "at": "2026-11-28T16:44:33Z"
  }
 ]
