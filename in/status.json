@@ -5,12 +5,11 @@
 "opinion": 30,
 "lesson": 26,
 "builder": 25,
-"buyers": 5,
-"news": 1
+"buyers": 4
 },
-"pool_total": 116,
-"booked": 13,
-"next": "2026-11-28T15:00:00Z",
+"pool_total": 114,
+"booked": 14,
+"next": "2026-11-28T17:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -215,6 +214,8 @@
 "In a long set of instructions for an AI assistant, an old ru",
 "When an AI voice agent must open every call with the same wo",
 "Start with a boring automation, like sending the invoice the",
+"Make.com now has a plugin for Claude, so you describe a regu",
+"21 of 190 public reviews of automation sellers came from buy",
 "You will not win an argument with a customer about a bill, e",
 "Chase an old quote every morning before you do anything else",
 "There will never be a quiet month to raise your prices.\n\nTel",
@@ -263,7 +264,6 @@
 "An automation that answers a cancellation by creating or can",
 "A scheduled job that downloads the same tool fresh on every ",
 "When you summarise an AI agent's log by keeping only its tex",
-"21 of 190 public reviews of automation sellers came from buy",
 "Send your offer to the customer you think is too big for you",
 "Being nervous before a sales call does not mean you are bad ",
 "When you break a promise to a customer, make the next promis",
@@ -320,7 +320,6 @@
 "On a phone menu, make the language key work however many tim",
 "Wait before you test a fresh deploy against a real booking s",
 "Two queued GitHub Actions runs that both save their results ",
-"Make.com now has a plugin for Claude, so you describe a regu",
 "Across 190 reviews that buyers left for automation builders,",
 "Open your backup and check the date of the newest copy, rath",
 "When you ban one bad habit in your AI assistant's instructio",
@@ -332,5 +331,5 @@
 "A checker that reports nothing wrong may simply be skipping ",
 "In 13 of 190 public reviews of automation builders, the buye"
 ],
-"at": "2026-11-28T13:23:53.123Z"
+"at": "2026-11-28T16:23:51.707Z"
 }
