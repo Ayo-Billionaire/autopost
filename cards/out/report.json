@@ -313,5 +313,29 @@
   "margin": 131,
   "text": "Answer an angry customer with a phone call rather than a longer written reply.\n\nMost anger in a message comes from how it was read, and your voice fixes that faster than more careful words.",
   "at": 1795876937
+ },
+ {
+  "id": "w261125c02",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 178,
+  "text": "If a customer needs several meetings before they buy, turn up to every one with the same care.\n\nA slow yes pays exactly the same invoice as a quick one.",
+  "at": 1795887730
+ },
+ {
+  "id": "w261125b10",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 295,
+  "text": "Let go of the customer who disputes every invoice, because the time spent chasing them is taken from customers who pay on time.",
+  "at": 1795887730
  }
 ]
