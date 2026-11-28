@@ -289,5 +289,29 @@
   "error": "too tall",
   "text": "Start with a boring automation, like sending the invoice the moment a job is marked done, before you pay for an AI chatbot on your website.\n\nThe invoice brings in money every week, while the chatbot mostly answers questions you could have put on a page.",
   "at": 1795866132
+ },
+ {
+  "id": "w261125b14",
+  "lane": "opinion",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 341,
+  "text": "Give customers one way to reach you and answer it well, rather than every app you only check when you remember.",
+  "at": 1795876937
+ },
+ {
+  "id": "w261125c01",
+  "lane": "motivation",
+  "ok": true,
+  "why": [],
+  "size": 80,
+  "font": true,
+  "photo": 432,
+  "margin": 131,
+  "text": "Answer an angry customer with a phone call rather than a longer written reply.\n\nMost anger in a message comes from how it was read, and your voice fixes that faster than more careful words.",
+  "at": 1795876937
  }
 ]
