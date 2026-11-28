@@ -274,5 +274,20 @@
   "margin": 131,
   "text": "Write down how a task is done only after someone else has done it while you watched.\n\nThey will trip over the steps you forgot you take, and those are the steps your written guide would have missed.",
   "at": 1795812133
+ },
+ {
+  "id": "w261125b13",
+  "lane": "opinion",
+  "ok": false,
+  "why": [
+   "too tall"
+  ],
+  "size": 72,
+  "font": true,
+  "photo": 432,
+  "margin": 92,
+  "error": "too tall",
+  "text": "Start with a boring automation, like sending the invoice the moment a job is marked done, before you pay for an AI chatbot on your website.\n\nThe invoice brings in money every week, while the chatbot mostly answers questions you could have put on a page.",
+  "at": 1795866132
  }
 ]
