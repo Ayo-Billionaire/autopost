@@ -1,16 +1,16 @@
 {
 "on": true,
 "pool": {
-"motivation": 30,
+"motivation": 29,
 "opinion": 31,
-"lesson": 23,
-"builder": 22,
-"buyers": 4,
+"lesson": 27,
+"builder": 26,
+"buyers": 5,
 "news": 1
 },
-"pool_total": 111,
-"booked": 14,
-"next": "2026-11-28T05:00:00Z",
+"pool_total": 119,
+"booked": 13,
+"next": "2026-11-28T09:00:00Z",
 "missed": [],
 "problems": [],
 "rejected": [
@@ -154,7 +154,16 @@
 "N25112516",
 "https://help.make.com/openai-reusable-prompts-deprecation-salesforce-connection-security-changes-and-more-app-updates",
 "https://help.make.com/introducing-the-make-plugin-for-claude",
-"R26112605"
+"R26112605",
+"L0846",
+"L0050",
+"L1055",
+"L0728",
+"L0753",
+"N25112506",
+"L1304",
+"N25112518",
+"R26112603"
 ],
 "recent": [
 "Before you hire someone for a task, do it yourself for a wee",
@@ -312,7 +321,16 @@
 "Wait before you test a fresh deploy against a real booking s",
 "Two queued GitHub Actions runs that both save their results ",
 "Make.com now has a plugin for Claude, so you describe a regu",
-"Across 190 reviews that buyers left for automation builders,"
+"Across 190 reviews that buyers left for automation builders,",
+"Open your backup and check the date of the newest copy, rath",
+"When you ban one bad habit in your AI assistant's instructio",
+"A change that lifts one score for your AI writing can quietl",
+"Telling an AI assistant never to ask and always to draft mak",
+"A voice agent that reads dates by spotting words inside the ",
+"A daily job that rereads its whole database to avoid duplica",
+"Copying the example from a software company's own documentat",
+"A checker that reports nothing wrong may simply be skipping ",
+"In 13 of 190 public reviews of automation builders, the buye"
 ],
-"at": "2026-11-28T04:23:53.480Z"
+"at": "2026-11-28T07:23:51.329Z"
 }
